@@ -1,0 +1,8201 @@
+{
+ "meta": {
+  "title": "高压电作业题库（综合版）· 收藏题 328",
+  "count": 328,
+  "types": {
+   "单选": 156,
+   "判断": 172
+  },
+  "sources": [
+   {
+    "name": "聚工云习题 · 高压电作业题库（综合版）· 收藏题（专项练习 328 题）",
+    "count": 328,
+    "method": "微信小程序逐题截图 → 本地 OCR（PP-OCRv6）；题号按翻页顺序",
+    "capturedAt": "2026-10-30"
+   }
+  ],
+  "createdAt": "2026-10-30",
+  "note": "answer = 题库判定答案；judge 题选项固定 A 正确 / B 错误；correct = 该题作答是否正确（来自截图状态）；analysis 为截图可见的解析全文，长解析被屏幕截断时 analysisTruncated=true；no 为原题库题号（按翻页顺序），id 为连续编号。"
+ },
+ "stats": {
+  "scraped": 328,
+  "notesAttached": 2,
+  "correctCount": 216,
+  "wrongCount": 112,
+  "duplicateStems": [],
+  "noCheck": [],
+  "problems": []
+ },
+ "questions": [
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "“禁止合闸，有人工作”的标志牌应制作为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "白底红字"
+    },
+    {
+     "key": "B",
+     "text": "红底白字"
+    },
+    {
+     "key": "C",
+     "text": "白底绿字"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "《中华人民共和国标准化法》中规定了禁止合闸、线路有人工作标志牌应采用白底红字的配色方案，并且设置在已停电的电力线路的开关和刀闸的操作把手上。这种规定旨在确保工作人员在执行工作时能够清晰地看到安全警示，从而避免操作错误导致",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 1,
+   "id": 1
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "“禁止攀登，高压危险！”的标志牌应制作为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "白底红字"
+    },
+    {
+     "key": "B",
+     "text": "红底白字"
+    },
+    {
+     "key": "C",
+     "text": "白底红边黑字"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在制定“禁止攀登，高压危险!”的标志牌时，应遵循安全标志的规定，以确保标志的清晰度和有效性。根据这些规定，标志牌应采用白底红边黑字的配色方案，以确保在各种环境下都能清晰地传达警告信息。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 2,
+   "id": 2
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "10kV及以下与35kV线路同杆架设时，导线间的垂直距离不应小于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2m"
+    },
+    {
+     "key": "B",
+     "text": "4m"
+    },
+    {
+     "key": "C",
+     "text": "3m"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "这一规定旨在确保电力系统的安全运行和电气安全。当不同电压等级的线路在同一杆塔上架设时，需要保持一定的垂直距离，以避免不同线路之间的电气王扰和安全隐患。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 3,
+   "id": 3
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "10kV以下运行的阀型避雷器的绝缘电阻应每年测量一次。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "每半年一次，视具体情况定，如果运行工况复杂可以每3个月做一次。阀式避雷器是用来保护发、变电设备的主要元件。在有较高幅值的雷电波侵入被保护装置时，避雷器中的间隙首先放电，限制了电气设备上的过电压幅值。在泄放雷电流的过程中，由于碳化硅阀片的非线性电阻值大大减小，又使避雷器上的残在设备绝缘水平下。雷电波过后，放电间隙恢硅阀片非线性电阻值又大大增加，自动地将工频电流",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 4,
+   "id": 4
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "10m电杆埋设深度宜（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1.7m"
+    },
+    {
+     "key": "B",
+     "text": "1.5m"
+    },
+    {
+     "key": "C",
+     "text": "1.9m"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "从电杆的埋设深度一般应根据电杆的材料、高度、土壤情况而定，但不应小于杆长的1/6，以确保电杆在正常情况能够承受风、冰等荷载而稳定不致倒杆。对于10m高的电杆，其埋设深度至少应为杆长的1/6，即大约1.67m。然而，具体到10m电杆的埋设深度，有明确的答案指出应该是1.7m，这个数值直了电杆稳定性的基本要求，同时考虑到了实的可行性。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 5,
+   "id": 5
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "110KV及以下线路保护测控装置，当开关在跳位而（），延时10s报TWJ异常。",
+   "options": [
+    {
+     "key": "A",
+     "text": "线路有压"
+    },
+    {
+     "key": "B",
+     "text": "线路无压"
+    },
+    {
+     "key": "C",
+     "text": "线路有流"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "：TWJ/HWJ（跳闸位置/合闸位置继电器）的作用跳闸位置/合闸位置继电器的辅助触点接通本地指示灯，告诉值班人员，开关处于跳闸或合闸位置，还可以接通远方的信号，告诉远方的工作人员，开关的位置。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 6,
+   "id": 6
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "110KV及以下线路保护测控装置不具备（）功能。",
+   "options": [
+    {
+     "key": "A",
+     "text": "断路器保护"
+    },
+    {
+     "key": "B",
+     "text": "过电流保护"
+    },
+    {
+     "key": "C",
+     "text": "三相一次或二次重合闸"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "线路保护测控装置是以电流、电压保护及三相重合闸为基本配置的成套线路保护装置。适用于35kV及以下电压等级的非直接接地系统或经电阻接地方向线路保护及测控，可在开关柜就地安装，安装于控制室。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 7,
+   "id": 7
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "35kV架空线路紧线弧垂正误差最大值不应超过50mm。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "35kV架空线路的紧线弧垂正误差最大值不应超过500mm，这是为了保证线路在各种环境条件下都能保持稳定的电力传输能力，同时确保线路的安全运行。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 8,
+   "id": 8
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "I类移动式电气设备在外壳上没有接地端子，但在内部有接地端子，自设备内引出带有保护插头的电源线。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 9,
+   "id": 9
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "FZ型避雷器残压比FS型避雷器残压低，适合作为发电厂和变电所电气设备的防雷保护。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "FZ型避雷器和FS型避雷器的主要区别在于FZ型内部间隙并联了电阻，这使得在同等条件下，FZ型避雷器的工频放电值大于FS型的工频放电值。FZ型避雷器的残压相对较低，这一特性使得FZ型避雷器在保护发电厂和变电所电气设备免受雷击损害时更为有效。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 10,
+   "id": 10
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "RN2型高压熔断器可适用于作（）的保护。",
+   "options": [
+    {
+     "key": "A",
+     "text": "变压器"
+    },
+    {
+     "key": "B",
+     "text": "电力线路"
+    },
+    {
+     "key": "C",
+     "text": "电压互感器"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "RN2是产品型号的一个表达方式。属于室内高压限流熔断器，用于电压互感器的短路保护，其断流容量为10002MVA。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 11,
+   "id": 11
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "SC10-315/10表示三相干式浇注绝缘，双绕组无励磁调压，额定容量315kVA，低压侧绕组额定电压为10kV电力变压器。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 12,
+   "id": 12
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "TN-C-S系统是干线部分保护零线与工作零线完全共用的系统。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "TN-C-S系统不是干线部分保护零线与工作零线完全共用的系统。TN-C-S系统是一种供电系统，其特点是干线部分保护零线与工作零线前部共用，但后部分分开，通常用于厂区设有变电站、低电进线的车间及民用楼房。在TN-C-S系统中，前部分（TN-C部分）的保护零线与工作零线是完全共用的，而后部分）则是分开设置的。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 13,
+   "id": 13
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "XGN-10型开关柜采用的旋转式隔离开关在分闸后旋转刀片不应接地。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 14,
+   "id": 14
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "安装接线图对各元件和端子排都采用（）进行编号。",
+   "options": [
+    {
+     "key": "A",
+     "text": "相对顺序法"
+    },
+    {
+     "key": "B",
+     "text": "绝对编号法"
+    },
+    {
+     "key": "C",
+     "text": "相对编号法"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "相对编号法的应用不仅简化了接线图的阅读和理解，而且在实际的电路连接中也提供了明确的指导，确保了元件和端子排的正确连接，是电气工程中不可或缺的一部分。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 15,
+   "id": 15
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "安装接线图是以屏面布置图为基础，以原理图为依据而绘制成的接线图，是一种指导屏柜上配线工作的图纸。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 16,
+   "id": 16
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "安装图按其（）分为屏面布置图及安装接线图。",
+   "options": [
+    {
+     "key": "A",
+     "text": "原理"
+    },
+    {
+     "key": "B",
+     "text": "性质"
+    },
+    {
+     "key": "C",
+     "text": "作用"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "屏面布置图和安装接线图按照作用区分。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 17,
+   "id": 17
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "安装在烟囱顶上的避雷针直径不应小于下列数值（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "10mm"
+    },
+    {
+     "key": "B",
+     "text": "12mm"
+    },
+    {
+     "key": "C",
+     "text": "20mm"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "避雷针的直径要求根据其长度和材质有所不同。例如，对于长度在1m以下的避雷针，如果使用圆钢制成，其直径应为12mm；而当避雷针安装在烟囱顶部时，无论使用圆钢还是焊接钢管，其直径都应不小于20mm。这些规定确保了避雷针的导电性能度，以满足安全防护的需求。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 18,
+   "id": 18
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "按图纸的作用，二次回路的图纸可分为设计图和安装图。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "按图纸的作用，二次回路的图纸可分为原理图和安装图。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 19,
+   "id": 19
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "把设备编号和接线端子编号加在一起，每一个接线端子就有了唯一的（（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "设备文字符号"
+    },
+    {
+     "key": "B",
+     "text": "相对编号"
+    },
+    {
+     "key": "C",
+     "text": "回路编号"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "通过将设备编号和接线端子编号结合起来，可以确保每一个接线端子拥有一个独特的标识，即相对编号。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 20,
+   "id": 20
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "备用电源自动投入装置属于自动调节装置。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "备用电源自动投入装置不属于自动调节装置。备用电源自动投入装置的主要功能是在线路或用电设备发生故障时，能够自动迅速、准确地投入备用电源或切换到备用电源上，以防止用户断电。这种装置的核心目的是确保电力供应的连续性，而不是对电力系统进行调节或控制。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 21,
+   "id": 21
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "避雷线一般用截面不小于35mm2的镀锌钢绞线。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "题干描述正确，避雷线通常采用截面积不小于35mm2的镀锌钢绞线，以确保其导电性和机械强度满足防雷需求。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 22,
+   "id": 22
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "避雷针是常用的避雷装置，安装时，避雷针宜设独立的接地装置，如果在非高电阻率地区，其接地电阻不宜超过（）Ω。",
+   "options": [
+    {
+     "key": "A",
+     "text": "4"
+    },
+    {
+     "key": "B",
+     "text": "10"
+    },
+    {
+     "key": "C",
+     "text": "2"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "在非高电阻率地区，接地电阻的要求相对较低，一般不宜超过10Ω，这样可以确保避雷针在大多数都能有效地引导雷电电流入地，避免雷电对人员的伤害。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 23,
+   "id": 23
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "避雷针在地面上的保护半径是2倍避雷针总高度。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "避雷针的保护半径并不是简单地等于其高度的两倍。将保护半径简单地设定为避雷针高度的两倍并不准确。在实际应用中，保护半径的计算会考虑到多种因素，包括避雷针的高度、安装位置、周围环境的导电性等，以确保其有效地保护周围区域免受直击雷的危害。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 24,
+   "id": 24
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "变压器保护属于按（）分类。",
+   "options": [
+    {
+     "key": "A",
+     "text": "保护原理"
+    },
+    {
+     "key": "B",
+     "text": "被保护的对象"
+    },
+    {
+     "key": "C",
+     "text": "保护所起作用"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "变压器保护主要依据被保护的特定对象来分类，这包括但不限于差动保护。差动保护是一种重要的变压器保护方式，其原理是基于电流差动保护，即通过比较输入电流互感器（CT）两端电流的矢量差来判断是否达到设定的动作值，从而启动保护动作。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 25,
+   "id": 25
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "变压器并列运行，接线组别相同时，会在变压器相连的低压侧之间产生电压差，形成环流，严重时导致烧坏变压器。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 26,
+   "id": 26
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "变压器的过电流保护，其动作电流整定按躲过变压器负荷侧母线短路电流，一般应大于额定电流3-5倍。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 27,
+   "id": 27
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "变压器电压调整是在变压器低压绕组上抽出适当的分接进行调压。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "一般情况下是在变压器高压绕组上抽出适当的分接进行调压。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 28,
+   "id": 28
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "变压器定时限过电流保护的动作电流按躲过变压器最大故障电流来整定。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "变压器定时限过电流保护的动作电流实际上是按躲过变压器最大负荷电流来整定的。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 29,
+   "id": 29
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "变压器铁芯的结构一般分为（和壳式两类。",
+   "options": [
+    {
+     "key": "A",
+     "text": "心式"
+    },
+    {
+     "key": "B",
+     "text": "圆式"
+    },
+    {
+     "key": "C",
+     "text": "角式"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "变压器铁芯的结构主要分为心式和壳式两种。心式结构中，铁芯柱被绕组所包围，即绕组包围着铁芯，这种结构形式相对简单，装配和绝缘较为容易，是变压器常用的结构形式。壳式结构则相反，铁芯包围着绕压的变压器。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 30,
+   "id": 30
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "变压器型号中除要把相数等分类特征表达出来外，还需标记（）、额定容量。",
+   "options": [
+    {
+     "key": "A",
+     "text": "低压绕组额定电压等级"
+    },
+    {
+     "key": "B",
+     "text": "高压绕组额定电压等级"
+    },
+    {
+     "key": "C",
+     "text": "最小容量"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "高压绕组额定电压等级也是变压器型号中必须标记的重要参数之一。这个参数直接关系到变压器统中的适配性和安全性，是变压器设计规格要方面。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 31,
+   "id": 31
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "变压器一、二次电流之比与一、二次绕组的匝数比成正比。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，变压器的工作原理基于电磁感应现象，其中电压与匝数成正比，而电流与匝数成反比。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 32,
+   "id": 32
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "不可用万用表欧姆档直接测量微安表、检流计或电池的内阻。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确，微安表和检流计需要的电流极小，使用万用表进行测量可能会引入过大的电流，从而损坏这些精密仪器。测量电池的内阻时，万用表可能会因为短路或过载而损坏。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 33,
+   "id": 33
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "不在一起的二次设备之间的连接线应使用回路编号法。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 34,
+   "id": 34
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "部分电路欧姆定律表明，当电压一定时，通过电阻的电流与电阻大小成正比。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，当电流一定时，电阻大小与电阻两端的电压并没有直接的正比关系。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 35,
+   "id": 35
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "部分电路欧姆定律表明，当电阻一定时，通过电阻的电流与电阻两端的电压成正比。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 36,
+   "id": 36
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "操作票填写要严格按倒闸操作原则，根据（）和运行方式及操作任务和操作中的要求进行，操作步骤要绝对正确，不能遗漏。",
+   "options": [
+    {
+     "key": "A",
+     "text": "设备状况"
+    },
+    {
+     "key": "B",
+     "text": "电气主接线"
+    },
+    {
+     "key": "C",
+     "text": "接地方式"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "操作票填写要严格按倒闸操作原则，根据电气主接线、运行方式、操作任务和操作中的要求进行作票的填写是一项重要的安全措施，旨在确统的稳定运行和操作安全。在填写操作票时，必须遵纸Π个关键原则和西麦·1中会士培线·这旦由力",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 37,
+   "id": 37
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "测量电动机线圈对地的绝缘电阻时，摇表的“L”“E”两个接线柱应（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "“E”接在电动机出线的端子，L”接电动机的外壳"
+    },
+    {
+     "key": "B",
+     "text": "“L”接在电动机出线的端子，E”接电动机的外壳"
+    },
+    {
+     "key": "C",
+     "text": "随便接，没有规定"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "正确的接线方式是“L”接线柱接在电动机出线子，而“E”接线柱接电动机的外壳。这种连接助于准确测量电动机线圈与地之间的绝缘电阻，从而+++立书#口一4人口πh",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 38,
+   "id": 38
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "城镇地区高压架空配电线路的档距一般采用（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "40m~50m"
+    },
+    {
+     "key": "B",
+     "text": "20m~30m"
+    },
+    {
+     "key": "C",
+     "text": "40m~80m"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 39,
+   "id": 39
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "除独立避雷针之外，在接地电阻满足要求的前提下，防雷接地装置可以和其他接地装置共用。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 40,
+   "id": 40
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "触头间的（）是指触头间电弧暂时熄灭后外电路施加在触头间的电压。",
+   "options": [
+    {
+     "key": "A",
+     "text": "恢复电压"
+    },
+    {
+     "key": "B",
+     "text": "额定工作电压"
+    },
+    {
+     "key": "C",
+     "text": "介质击穿电压"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "恢复电压是衡量电气开关设备性能的一个关键指标，特别是在涉及电弧控制和熄灭的过程中。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 41,
+   "id": 41
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "磁场中某点磁感应强度B的方向就是该点（）的切线方向。",
+   "options": [
+    {
+     "key": "A",
+     "text": "磁通"
+    },
+    {
+     "key": "B",
+     "text": "磁场强度"
+    },
+    {
+     "key": "C",
+     "text": "磁力线"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在磁场中，磁感应强度B的方向与磁感线上该点的切线方向相同，这表明磁感应强度的方向是通过观察磁力线的分布来确定的。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 42,
+   "id": 42
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "磁力线上某点的法线方向就是该点磁场的方向。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "磁力线是用来表示磁场方向和强度的图形表示方法，其中每一点上的切线方向代表了该点的磁场方向。磁力线上任一点的切线方向就是该点的磁场方向，而不是法线方向。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 43,
+   "id": 43
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "从业人员在作业过程中，应当正确佩戴和使用劳动防护用品，因未佩戴和使用劳动防护用品导致伤害的，不可以认定为工伤。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 44,
+   "id": 44
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "大小不随时间变化的电流称为直流电流。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "电流分为交流电和直流电两大类。直流电流的特点是电流的大小和方向都不随时间变化，而大小不随时间变化的电流仅描述了电流大小不变这一特征，忽略了方向不变这一关键要素。因此，这种表述是不准确的。正确的说法应该是，电流大小和方向都不随时间变化的电流称为稳恒直流电流。在稳恒直流电流的情况下，电流方向保持不变，电流大小同样保持不变",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 45,
+   "id": 45
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "带有电荷的物体具有一定的电位能，称为电能。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "带有电荷的物体具有一定的电位能，但这种电位能不被称为电能。带有电荷的物体确实具有一定的电位能，这种能量通常被称为电位能，而不是电能。电能通常指的是由于电场作用而在电路中产生的能量，而电位能是指物体因带有电荷而在空间中形成的电场中所具有的能量。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 46,
+   "id": 46
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "单台三相高压电容器的电容元件组在外壳内部一般接成三角形。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 47,
+   "id": 47
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "单线制的零线截面，应与相线截面相同。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 48,
+   "id": 48
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "单相接地短路是高压电动机最严重的故障。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确x"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 49,
+   "id": 49
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "弹簧储能操动机构在断路器处于运行状态时，储能电动机的电源隔离开关应在（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "断开或闭合位置"
+    },
+    {
+     "key": "B",
+     "text": "断开位置"
+    },
+    {
+     "key": "C",
+     "text": "闭合位置"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 50,
+   "id": 50
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "当20kV取代10kV中压配电电压，原来线路导线线径不变，则升压后的配电容量可以提高（）倍。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1"
+    },
+    {
+     "key": "B",
+     "text": "3"
+    },
+    {
+     "key": "C",
+     "text": "2"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 51,
+   "id": 51
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "当调整消弧线圈的分接头使得消弧线圈的电感电流等于接地电容电流，则流过接地点的电流为零，称为全补偿。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 52,
+   "id": 52
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "当散发的热量与产生的热量相等时，变压器各部件的温度达到稳定，不再升高。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "这一现象是正确的。当变压器内部的热量产生和散发达到平衡状态时，即散发的热量与产生的热量相等时，变压器各部件的温度将保持稳定，不再继续升高。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 53,
+   "id": 53
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "当通过电阻R的电流I一定时，电阻R消耗的电功率P与电阻R的大小成反比。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，当通过电阻R的电流I一定时，电阻R消耗的电功率P与电阻R的大小成正比。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 54,
+   "id": 54
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "当验明设备确已无电压后，应立即将检修设备三相短路并（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "放电"
+    },
+    {
+     "key": "B",
+     "text": "测量接地电阻"
+    },
+    {
+     "key": "C",
+     "text": "接地"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "接地操作相当于放电，能够有效地将设备上的电荷导入大地，避免因电荷积累而可能导致的安全问题。接地操作还能够确保检修设备的电气连接正确后续的检修工作提供安全保障。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 55,
+   "id": 55
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "导线允许载流量取决于其容许工作温度。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "导线允许载流量并不完全取决于其容许工作温度。导线的允许载流量实际上是在规定的环境温度条件下，导线能够连续承受而不致使其稳定温度超过允许值的最大电流。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 56,
+   "id": 56
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "倒闸操作票操作完毕后，操作人应向发令人报告操作任务的执行时间和执行情况。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 57,
+   "id": 57
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "倒闸操作时操作人听监护人对操作内容复诵，认为一切无误后，便发布“对，执行！”的命令。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，在进行倒闸操作时，正确的流程应该是监护人宣读操作项目，操作人复诵，监护人确认无误后，发出执行命令。这一流程确保了操作的准确性和安全性。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 58,
+   "id": 58
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "倒闸操作中发生疑问时，根据设备实际状况可更改操作票，但不准随意解除闭锁装置。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 59,
+   "id": 59
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "倒闸操作中发生疑问时，应立即停止操作并向（）或值班负责人报告，弄清问题后，再进行操作。",
+   "options": [
+    {
+     "key": "A",
+     "text": "操作人员"
+    },
+    {
+     "key": "B",
+     "text": "监护人"
+    },
+    {
+     "key": "C",
+     "text": "值班调度员"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在进行倒闸操作时，如果遇到任何疑问或不确定的情况，必须立即停止操作，并向值班调度员或值班负责人报告。这是为了确保操作的安全性和正确性。在报告并弄清楚问题后，经过相关人员的许可和可继续进行操作。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 60,
+   "id": 60
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "低压电笔的测量范围为400V以下。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确x"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 61,
+   "id": 61
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "低压配电线路的电压为10kV及以下。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "低压配电线路的电压为1kV及以下。配电电压不超过1kV、频率不超过1000Hz、直流不超过1500V，称低压配电线路。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 62,
+   "id": 62
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电磁操动机构的缺点之一是需配备（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "大容量直流合闸电源"
+    },
+    {
+     "key": "B",
+     "text": "大容量交流合闸电源"
+    },
+    {
+     "key": "C",
+     "text": "大功率储能弹簧"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "电磁操动机构①合闸电流大，要求大功率的直流电源。②由于合闸电流大，一般的辅助开关、中间继电器触点等很难投切这么大的电流，因此，必须另配直流接触器，利用直流接触器的带消弧线圈的触点来控制间长，电源电压变动对合闸速度影响大。④耗贫材料多。⑤由于户外式变电所开关的本体和操作机构一般",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 63,
+   "id": 63
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电动势的正方向规定为从低电位指向高电位，测量时电压表应正极接电源负极、而电压表负极接电源的正极。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 64,
+   "id": 64
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电度表应垂直安装，安装时表箱底部对地面的垂直距离一般为（）m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1.4"
+    },
+    {
+     "key": "B",
+     "text": "1.6"
+    },
+    {
+     "key": "C",
+     "text": "1.8"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "电度表应垂直安装，安装时表箱底部对地面的垂直距离一般为1.8m。这一规定确保了电度表的正确安装和使用，从而保障了测量的准确性和安全性。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 65,
+   "id": 65
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电力电缆线路的巡视检查有人值班的变（配）电所，每班应检查一次，无人值班的，每月至少检查一次。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，有人值班的变配电所中的电力电缆线路应每班进行多次巡察检查，而无人值班的变配电所的电力电缆线路则每周至少进行一次巡察。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 66,
+   "id": 66
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电力电缆中，（）具有容许温升高，允许载流量较大，耐热性能好，介电性能优良的特点。",
+   "options": [
+    {
+     "key": "A",
+     "text": "聚氯乙烯绝缘电缆"
+    },
+    {
+     "key": "B",
+     "text": "交联聚乙烯绝缘电缆"
+    },
+    {
+     "key": "C",
+     "text": "不滴漏油浸纸绝缘型电缆"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "交联聚乙烯绝缘电缆（XLPE）相比其他类型的电缆，在电力电缆中表现出更为优越的性能。这些优势使得交联聚乙烯绝缘电缆特别适合于高落差和垂直敷传输的安全性和稳定性。）",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 67,
+   "id": 67
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电力生产的特点是（）集中性、适用性、先行性。",
+   "options": [
+    {
+     "key": "A",
+     "text": "广泛性"
+    },
+    {
+     "key": "B",
+     "text": "同时性"
+    },
+    {
+     "key": "C",
+     "text": "统一性"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "电力生产的特点是同时性、集中性、适用性、先行性。电力生产具有以下几个显著特点：1.同时性：这意味着电力的生产和消费几乎是同时进行的。电力生产必须能够迅速响应消费需求，确保供电的连续性进行，然后通过电网输送到各个用户。这种集中土产、分散消费的模式是电力系统的基本特征。3.适",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 68,
+   "id": 68
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电力系统进行无功补偿起到的作用之一是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "提高设备可靠性"
+    },
+    {
+     "key": "B",
+     "text": "提高设备安全性"
+    },
+    {
+     "key": "C",
+     "text": "提高设备利用效率"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "无功补偿在电力系统中扮演着重要的角色，其主要目的是通过补偿无功功率，优化电力系统的运行状态，从而提高设备的利用效率。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 69,
+   "id": 69
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电力系统中性点接地是属于保护接地，它是保证电力系统安全可靠运行的重要条件。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "电力系统中性点接地属于工作接地，它是保证电力系统安全可靠运行的重要条件。这种接地方式被称为工作接地，因为它主要是为了运行需要而将电力系统或设备的某一点接地。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 70,
+   "id": 70
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电力线路电流速断保护是按躲过本线路末端最大短路电流来整定。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "题干描述正确，为了克服过电流保护在靠近电源端的保护装置动作时限长的问题。通过提高整定值，可以限制动作范围，从而不必增加时限即可实现瞬时动作。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 71,
+   "id": 71
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电力线路过电流保护的动作时间一般在0.2-0.5s。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 72,
+   "id": 72
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电力线路过电流保护动作时间的整定采取阶梯原则，时限阶段差Δt一般设置为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5s"
+    },
+    {
+     "key": "B",
+     "text": "0.3s"
+    },
+    {
+     "key": "C",
+     "text": "0.8s"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "电流三段的整定原则是：电流大小是躲过保护线路得最大负荷电流，动作时间时按照阶梯型原则整从同一方向的最后一个三段保护算起，倒着往t=0，t1=0+0.5，t2=0+0.5+0.5，以此类推，每上一级得电",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 73,
+   "id": 73
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电力用户6～10kV线路的继电保护，一般只配置电流速断保护。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "不正确。电力用户6～10kV线路的继电保护一般不仅配置电流速断保护，还配置过电流保护和限时电流速断保护。这些保护措施共同作用，以确保电力系统的安全和稳定运行。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 74,
+   "id": 74
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电流互感器按用途可分为测量用电流互感器和（）用电流互感器。",
+   "options": [
+    {
+     "key": "A",
+     "text": "保护"
+    },
+    {
+     "key": "B",
+     "text": "实验"
+    },
+    {
+     "key": "C",
+     "text": "跳闸"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "互感器按用途分为两类一个是测量一个是保护。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 75,
+   "id": 75
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电流互感器的一次线圈并联接入被测电路，二次线圈与测量仪表连接，一、二次线圈极性应正确。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，电流互感器的一次线圈应串联接入被测电路，而不是并联。电流互感器的工作原理是基于电磁感应，其中一次侧绕组匝数很少，要测量的电流线路中，因此它经常有线路的流过。二次侧绕组匝数比较多，串接在测量仪表和保护回路中。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 76,
+   "note": "错在『并联』：电流互感器一次线圈应串联接入被测电路。",
+   "id": 76
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电流继电器的触点不可以直接闭合断路器的跳闸线圈回路。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确，电流继电器的触点直接闭合断路器的跳闸线圈回路可能会导致电路的不稳定或不可控的操作，从而影响电力系统的安全运行。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 77,
+   "id": 77
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电气设备有三种工作状态，即运行、备用、试验状态。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 78,
+   "id": 78
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电位差是产生电阻的原因。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "电位差不是产生电阻的原因。电位差，也称为电压，是衡量电场中两点之间电势差的物理量。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 79,
+   "id": 79
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电压保护属于按（）分类。",
+   "options": [
+    {
+     "key": "A",
+     "text": "被保护的对象"
+    },
+    {
+     "key": "B",
+     "text": "保护原理"
+    },
+    {
+     "key": "C",
+     "text": "保护所起作用"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "电压保护是一种以保护装置安装处的被测电压为作用量的继电保护方式。它利用电压的过低或过高所构成的继电保护，分别称为低电压保护和过电压保护。电力系统运行电压是电能质量的重要指标，当它偏离额影响工厂产品的数量和质量，还可能造成用电设备的损坏。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 80,
+   "id": 80
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电压的换算单位1kV=10°mV（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "1kV等于1000V，1V等于1000mV，因此1kV等于1000000mV。10的6次方。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 81,
+   "id": 81
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电压互感器是将高压系统中的电流或低压系统中的大电流转变为标准的小电流，供测量保护监控用。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 82,
+   "id": 82
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电压互感器停用时应拉开一次侧隔离开关，再将二次侧保险取下。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 83,
+   "id": 83
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "短路电流通过线路，会产生很大的电流降，使系统的电流水平骤降，引起电动机转速突然下降，甚至停转，严重影响电气设备的正常运行。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "短路电流通过线路会产生很大的电压降，而不是电流降。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 84,
+   "id": 84
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "断路器的额定开断电流是指在额定电压下断路器能可靠开断的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "最大负荷电流"
+    },
+    {
+     "key": "B",
+     "text": "最大短路电流"
+    },
+    {
+     "key": "C",
+     "text": "最大工作电流"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "断路器的额定开断电流是一个重要的技术参数，它表征了断路器在额定电压下能够可靠切断的最这个电流值是在断路器的设计和制造过程中考最大预期短路情况，确保在电路发生短路时，断路器",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 85,
+   "id": 85
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "断路器的关合电流是指保证断路器可靠关合而又不会发生触头熔焊或其他损伤时，断路器允许通过的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "最大过负荷电流"
+    },
+    {
+     "key": "B",
+     "text": "最大工作电流"
+    },
+    {
+     "key": "C",
+     "text": "最大短路电流"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "断路器的关合电流是指保证断路器可靠关合而又不会发生触头熔焊或其它损伤时，断路器允许通过短路电流。断路器的关合电流：指合闸时短路绝限能力，辟如开关上标明额定短时关合电流（峰估\\50VA当外界线败短败时而如闸合上土这时开关",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 86,
+   "id": 86
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "对某支路的电气设备合闸时，其倒闸顺序是先合隔离开关，再合断路器。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干表述正确，倒闸操作的正确顺序如下：1.首先合上隔离开关，这是为了确保电路的安全隔离，为后续操作提供安全的工作环境。2.其次是负荷开关，这一步是为了调整电路的负载状态，为设备接入电路做准备。3.最后合上断路器，这是整个操作的关键步骤，通过断路器来控制电路的通断，确保常运行。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 87,
+   "id": 87
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "对于二次回路的标号，按线的性质、用途进行编号叫（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "相对编号法"
+    },
+    {
+     "key": "B",
+     "text": "绝对编号法"
+    },
+    {
+     "key": "C",
+     "text": "回路编号法"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在电气工程中，二次回路是指电气系统中的控制电路，它负责控制一次设备（如发电机、变压器等）的运行。为了便于识别和维护，二次回路中的导线需要按照一定的规则进行编号。回路编号法是一种根据线有一个独特的标识，从而方便技术人员快速准确地识别和控制电路中的各个部分。这种编号方法不仅适用",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 88,
+   "id": 88
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "对于感性负载电路，可以通过无功补偿将电路的功率因数cosφ提高到等于1，电路仍能够正常运行。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "对于感性负载电路，通过无功补偿可以将电路的功率因数coSφ提高到等于1，但电路仍能够正常运行的说法是错误的。感性负载是指带有电感参数的负载，其电流滞后于电压，导致功率因数较低。为了提高电力系统的传输效率和降低能耗，提高感性负因数具有重要意义。功率因数（PowerFactor，是交流电路中实际功率与视在功率之比，用coSφ表",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 89,
+   "id": 89
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "对于同一屏内或同一箱内的二次设备，相隔距离近，相互之间的连线多，回路多，采用相对编号很难避免重号，而且不便查线和施工。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 90,
+   "id": 90
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "对直流回路编号，正极性回路一般编为偶数，负极性回路一般编为奇数。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "这个说法是错误的。实际上，直流正极回路的线段应该按奇数顺序编号，而负极回路的线段则应该按偶数顺序编号。这种编号方法有助于在电气系统中清晰地识别和区分不同的电路回路，确保电气系统的安全和可靠运行。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 91,
+   "id": 91
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "二次回路的准确读图顺序是先直流、后交流，先上后下，先左后右。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "这个说法是错误的。二次回路的读图顺序并不是先直流、后交流，而是先交流、后直流。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 92,
+   "id": 92
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "二次回路接线图，通常是指在图纸上使用数字符号及文字符号按一定规则连接来对二次回路进行描述。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 93,
+   "id": 93
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "二氧化碳灭火器带电灭火只适用于600V以下的线路。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "正确。二氧化碳灭火器带电灭火主要适用于600V以下的线路。对于10kV或35kV的高压线路，如果需要带电灭火，则应选择干粉灭火器。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 94,
+   "id": 94
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "发生短路时，电力系统从正常的稳定状态过渡到短路的稳定状态，一般需（）s。",
+   "options": [
+    {
+     "key": "A",
+     "text": "3~4"
+    },
+    {
+     "key": "B",
+     "text": "3~5"
+    },
+    {
+     "key": "C",
+     "text": "1~3"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "这一时间范围反映了电力系统在面对短路故障时，从正常状态过渡到短路状态的调整时间。具体来说，这个时间范围是从3秒到5秒，这个时间段内，由力系的调整以及保护装置的动作等，最终达到一个新的稳定状态。这个时间框架考虑了电力系统的动态特性和",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 95,
+   "id": 95
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "防雷装置的引下线应满足足够的机械强度、耐腐蚀和热稳定的要求，如用钢绞线，其截面不得小于35mm2。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "防雷装置的引下线应满足足够的机械强度、耐腐蚀和热稳定的要求，如用钢绞线，其截面不得小于25mm2。这一结论基于最新的电工复审考试判断题精4m讲解，其中明确指出，防雷装置的引下线应的机械强度、耐腐蚀和热稳定的要求，而使用钢绞线时，其截面不得小干25mm²。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 96,
+   "id": 96
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "非承力接续金具的握着力不应小于该导线计算拉断力的95%。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 97,
+   "id": 97
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "分支终端杆的单横担应装在（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "供电侧"
+    },
+    {
+     "key": "B",
+     "text": "受电侧"
+    },
+    {
+     "key": "C",
+     "text": "拉线侧"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "分支终端杆的单横担安装位置的选择是基于其特定的结构和受力情况。由于分支终端杆受力不平衡，通常设置了拉线来平衡这种不平衡，因此单横担应安装在拉线侧。这种安排有助于确保杆的稳定性和安全性。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 98,
+   "id": 98
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "敷设在竖井内的电缆，每三个月至少检查一次。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "这个说法是错误的。敷设在竖并内的电缆，每半年至少应进行一次定期检查。此外，电缆线路每六个月至少巡查一次。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 99,
+   "id": 99
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "杆塔拉线与杆塔的夹角宜采用（））。",
+   "options": [
+    {
+     "key": "A",
+     "text": "20°"
+    },
+    {
+     "key": "B",
+     "text": "60°"
+    },
+    {
+     "key": "C",
+     "text": "45°"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "这种夹角的选择对于确保杆塔的稳定性和安全性至关重要。45度的夹角能够有效地分散拉力，减少杆塔因风力或其他外力作用而产生的倾斜或移动的风险。同时，这种设计也有助于提高杆塔的整体结构强度，确保电力系统的稳定运行。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 100,
+   "id": 100
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "干粉灭火器可适用于（）kV以下线路带电灭火。",
+   "options": [
+    {
+     "key": "A",
+     "text": "50"
+    },
+    {
+     "key": "B",
+     "text": "10"
+    },
+    {
+     "key": "C",
+     "text": "35"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "干粉灭火器是一种常用的灭火设备，适用于多种类型的火灾，包括电器设备引起的火灾。根据相关资料，干粉灭火器特别适用于50kV以下的电器设备灾。这种灭火器通过将干粉的粉末铺盖在可面，通过化学反应隔绝氧气，从而达到灭火的效果。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 101,
+   "id": 101
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "高压成套装置的“五防”联锁功能常采用断路器、熔断器、隔离开关、接地开关与柜门之间的强制性机械闭锁方式或电磁闭锁方式实现。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 102,
+   "id": 102
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "高压电动机的供电网络一般是中性点非直接接地系统。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 103,
+   "id": 103
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "高压电动机发生单相接地故障后，必须将其切除。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "高压电动机发生单相接地故障后，不必将其切除。因为电动机单相接地是作为电机运行的一种保护，单纯电动机单相接地故障是不影响电机正常工作的，只是无法做到电机漏电保护而已，所以只要电机在正常工作可不必立即切除。但如果电机内部已经有漏电现象，则不要投入运行，一则是为了安全，二来容烧毁电机。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 104,
+   "id": 104
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "高压电动机纵差动保护工作原理与（）纵差动保护相似。",
+   "options": [
+    {
+     "key": "A",
+     "text": "断路器"
+    },
+    {
+     "key": "B",
+     "text": "变压器"
+    },
+    {
+     "key": "C",
+     "text": "接触器"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "都是利用电流流入和流出之间的差值量来进行保护。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 105,
+   "id": 105
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "高压开关柜巡视检查项目包括开关柜的（）所在位置正确。",
+   "options": [
+    {
+     "key": "A",
+     "text": "闭锁装置"
+    },
+    {
+     "key": "B",
+     "text": "接地装置"
+    },
+    {
+     "key": "C",
+     "text": "观察孔"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "在高压开关柜的巡视检查中，确保闭锁装置所在位置正确是重要的检查项目之一。闭锁装置的正确位置对于保障电力系统的安全运行至关重要，因为它直接关系到开关柜的操作安全性和防止误操作的能力。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 106,
+   "id": 106
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "高压配电线路的电压一般为10kV、20kV。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "高压配电线路的电压一般为10kV、20kV的说法是错误的。高压配电线路的电压范围实际上更广泛，电压等级可以涵盖从3.6kV到40.5kV，这被称为高压配电线路。而10kV和20kV只是其中的两个具体值。更广泛地说，电压等级包括安全电压（通常36V以下）、低压（分为220V和380V）、高压（10KV-220KV）、超高压（330KV-750KV）以及特高压（1000KV交为±800kV。通常，10kV及以下的电力线路被称为配电线路，其中1kV以下的线路称为低压配电线路，1",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 107,
+   "id": 107
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "高压验电器的发光电压不应高于额定电压的（）%。",
+   "options": [
+    {
+     "key": "A",
+     "text": "50"
+    },
+    {
+     "key": "B",
+     "text": "25"
+    },
+    {
+     "key": "C",
+     "text": "75"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "高压验电器的设计和使用标准要求其发光电压不应超过额定电压的25%。这一规定确保了验电器的安全性和有效性，使得验电器能够在确保不超过这值的情况下，有效地检测高压设备是否带电",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 108,
+   "id": 108
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "隔离开关不允许拉、合电压互感器和避雷器回路。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "隔离开关允许拉、合电压互感器和避雷器回路。隔离开关是一种主要用于隔离电源、进行倒闸操作和连通、切断小电流电路的开关器件。它本身没有灭弧功能，但在分位置时，触头间有符合规定要求的绝缘距离和明显的断开标志；在合位置时，能承载正常回路条件下的电流及在规定时间内异常条件下的电流。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 109,
+   "id": 109
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "隔离开关分闸时，三相动触头应在同一平面。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 110,
+   "id": 110
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "工频电流比高频电流更容易引起皮肤灼伤。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "高频电流比工频电流更容易引起皮肤灼伤。这是因为高频电流的集肤效应，即频率越高，导体表面的电流密度越大，导致皮肤的电流热效应越强，从而更容易引起皮肤灼伤。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 111,
+   "id": 111
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "工作负责人为了工作方便，在同一时间内可以写两张操作票。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "工作负责人为了工作方便，在同一时间内不可以写两张操作票。操作票的管理和使用有着严格的规定和限制，以确保电力工作的安全性和规范性。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 112,
+   "id": 112
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "工作负责人应负责审查工作票所列安全措施是否正确完善，是否符合现场条件，并负责落实施工现场的安全措施。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 113,
+   "id": 113
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "工作票执行过程中，如需变更工作班成员时，须经过（）同意。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作负责人"
+    },
+    {
+     "key": "B",
+     "text": "工作票签发人"
+    },
+    {
+     "key": "C",
+     "text": "运行值班人员"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "在工作票的执行过程中，如果需要变更工作班成员，这一变更必须得到工作负责人的同意。这是为了保证工作的连续性和安全性，确保变更后的成员能够胜任",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 114,
+   "id": 114
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "供电电压过低或过高不属于高压电动机的故障。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 115,
+   "id": 115
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "供电质量指（）与供电可靠性。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电流质量"
+    },
+    {
+     "key": "B",
+     "text": "电能质量"
+    },
+    {
+     "key": "C",
+     "text": "电压质量"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "供电质量是指用电方与供电方之间相互作用和影响中供电方的责任，包括技术部分，和非技术部分。供电质量提供合格、可靠电能的能力和程度，包括电能质量和供电可靠性两个方面。对工业和公用事业用户的安质量恶化会引起用电设备的效率和功率因数降低，损耗增加，寿命缩短，产品品质下降，电子和自动化设备失",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 116,
+   "id": 116
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "关于Dyn11（△/Yo-11）绕组接线，描述正确的是",
+   "options": [
+    {
+     "key": "A",
+     "text": "一次绕组接成星形，二次绕组接成三角X形"
+    },
+    {
+     "key": "B",
+     "text": "二次侧线电压超前于一次线电压60度"
+    },
+    {
+     "key": "C",
+     "text": "二次侧线电压超前于一次线电压30度"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "在这种接线方式中，一次绕组被接成三角形，而二次绕组则被接成星形。此外，二次侧线电压相线电压存在60度的相位差，即二次侧线电压一次线电压。这种接线方式在电力系统中有着特定的",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 117,
+   "id": 117
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "规定在磁体外部，磁力线的方向是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "由N极到达S极"
+    },
+    {
+     "key": "B",
+     "text": "由S极到达N极"
+    },
+    {
+     "key": "C",
+     "text": "由N极出发到无穷远处"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "磁力线的方向在磁体外部遵循一定的规律，这是磁场的基本性质之一。磁感线是闭合的曲线，没有起点和终点。在磁体外部，磁感线从磁体的N极指向S极；而在磁体内部，磁感线的方向则相反，从S极指向N性。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 118,
+   "id": 118
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "过负荷、频率降低、单相断线均属于电气设备故障。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "过负荷、频率降低、单相断线均不属于电气设备故障。电气设备故障通常可以分为几类，包括电源故障、电路故障和设备和元件故障。电源故障涉及缺电源、电压、频率偏差、极性接反等问题；电路故障涉及断线、短路等；设备和元件故障则包括过热烧毁、电气击穿等。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 119,
+   "id": 119
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "过负荷保护主要用于反应（）kVA及以上变压器过负荷。",
+   "options": [
+    {
+     "key": "A",
+     "text": "630"
+    },
+    {
+     "key": "B",
+     "text": "400"
+    },
+    {
+     "key": "C",
+     "text": "315"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "过负荷保护特别设计来应对400kVA及以上的变压器过负荷情况。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 120,
+   "id": 120
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "衡量继电保护的好坏，最重要的是看其是否具有速动性。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，衡量继电保护的好坏，最重要的是看是否按要求动作。对继电保护装置的基本要求：1）选择性。选择性是指当系统内发生故障时，保护装置仅将故障元件切除，系统中非故障部分仍保持继续运行，使停电范围尽量缩小的性能。继电保护装置的选择性是保证安全可靠供电的重要条件之一，在设计和保护装置定值整定时必须予以保证。2）速动性。速动性就是快速切除故障。快速切除故障可避免故可减小短路电流对故障设备的损坏程度，可减小对用电设备用电的影响，可保障系统安全运行。3）灵敏",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 121,
+   "id": 121
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "几个不等值的电阻串联，每个电阻中通过的电流不相等。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "几个不等值的电阻串联时，每个电阻中通过的电流是相等的。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 122,
+   "id": 122
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "继电保护动作的选择性，可以通过合理整定（）和上下级保护的动作时限来实现。",
+   "options": [
+    {
+     "key": "A",
+     "text": "动作值"
+    },
+    {
+     "key": "B",
+     "text": "动作电压"
+    },
+    {
+     "key": "C",
+     "text": "动作范围"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "继电保护是电力系统中的重要组成部分，它的主要任务是在电力系统发生故障或异常时，通过快速且选择性地切断故障部分，保护无故障部分继续运行从而确保电力系统的稳定性和可靠性。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 123,
+   "id": 123
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "继电器是一种在其输入物理量（电气量或非电气量）达到规定值时，其电气输出电路被接通的自动装置。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "继电器是一种在其输入物理量（电气量或非电气量）达到规定值时，其电气输出电路被阻断的自动装置。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 124,
+   "id": 124
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "架空电力线路的绝缘子的巡视检查内容包含绝缘子的型号是否正确。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "架空电力线路的绝缘子的巡视检查内容并不包含绝缘子的型号是否正确。绝缘子的巡视检查主要集中在以下几个方面：1.检查绝缘子表面是否脏污，特别是在污秽地段，如果安装了泄漏电流记录仪，应检查否有裂纹、破碎及闪络、烧伤痕迹。3.检查绝缘子的钢脚、钢帽是否锈蚀，以及钢脚是否弯曲。4.检",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 125,
+   "id": 125
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "架空电力线路的运行要求导（地）线接头须用同一型号导线相连结。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 126,
+   "id": 126
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "架空电力线路跨越架空弱电线路时，其交叉角对于二级弱电线路应≥45°。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "架空电力线路跨越架空弱电线路时，其交叉角对于二级弱电线路应≥30°。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 127,
+   "id": 127
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "架空线路杆塔的横担上下倾斜、左右偏歪不应大于横担长度的2%。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确，根据电力施工规范：架空线路杆塔的横担上下倾斜、左右偏歪不应大于横担长度的2%。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 128,
+   "id": 128
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "架设在发电厂升压变电所与区域变电所之间的线路以及区域变电所与区域变电所之间的线路，称为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "所用电线路"
+    },
+    {
+     "key": "B",
+     "text": "配电线路"
+    },
+    {
+     "key": "C",
+     "text": "输电线路"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "输电线路的主要功能是用于输送电能，连接发电厂和电力网络的关键环节。这些线路承担着将电厂高效、安全地传输到各个区域变电所的任电力系统的稳定运行和电能的合理分配。输电线路的加设和运营对工促陪由力供应的冻续性和可靠性至关",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 129,
+   "id": 129
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "交联聚乙烯电缆允许长期最高工作温度为70℃。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "交联聚乙烯电缆允许长期最高工作温度为90℃。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 130,
+   "id": 130
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "交流电流的频率越高，则电感元件的感抗值越小，而电容元件的容抗值越大。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "交流电流的频率越高，电感元件的感抗值越大，而电容元件的容抗值越小。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 131,
+   "id": 131
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "交流电路中，电弧电流瞬时过零时电弧将消失，此后若触头间的介质击穿电压小于等于恢复电压，则电弧将重燃。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 132,
+   "id": 132
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "交流电压供给操作电源，只有在发生短路事故时或者在负荷电流较大时，变流器中才会有足够的二次电流作为继电保护跳闸之用。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "交流操作电源并不只是在发生短路事故时或者在负荷电流较大时，变流器中才会有足够的二次电电保护跳闸之用。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 133,
+   "id": 133
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "接地电阻测量仪主要由手摇发电机、（）、电位器，以及检流计组成。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电压互感器"
+    },
+    {
+     "key": "B",
+     "text": "电流互感器"
+    },
+    {
+     "key": "C",
+     "text": "变压器"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "接地电阻测量仪是一种用于测量接地电阻的设备，其核心组成部分包括手摇发电机、电流互感器和检流计。这些组件共同工作，以准确测量的电阻值。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 134,
+   "id": 134
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "接地线是为了在已停电的设备和线路上意外地出现电压时保证工作人员的重要工具。按规定，接地线必须是截面积25mm²以上裸铜软线制成。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 135,
+   "id": 135
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "接地装置中的接地线是埋在地下与土壤直接接触的金属导体。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 136,
+   "id": 136
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "金属氧化性避雷器每一个元件的中心线与避雷器安装中心线的垂直偏差不应大于该元件高度的1.5%。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确，这一规定旨在确保金属氧化性避雷器的正确安装和性能发挥。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 137,
+   "id": 137
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "聚氯乙烯绝缘电缆允许长期最高工作温度为65℃。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 138,
+   "id": 138
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "绝缘手套属于（）安全用具。",
+   "options": [
+    {
+     "key": "A",
+     "text": "直接"
+    },
+    {
+     "key": "B",
+     "text": "辅助"
+    },
+    {
+     "key": "C",
+     "text": "基本"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "绝缘手套属于辅助安全用具。绝缘手套，也称为高压绝缘手套，是由天然橡胶制成的五指手套。它主要用于电工作业，提供对手或人体的保护，防止具有防水、耐酸碱、防化、防油的功能。这过压片、模压、硫化或浸模成型，是电力运行维护和检修试验中堂田的安企工哭目也旱重要的绝缘防护",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 139,
+   "id": 139
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "卡盘的作用是承受电杆的横向力，增加电杆的抗倾覆力，防止电杆下沉。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "卡盘的作用主要是防止电杆倾斜，增加电杆的抗倾覆力，而不是承受电杆的横向力或防止电杆下沉。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 140,
+   "id": 140
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "跨越道路的水平拉线，对路面中心的垂直距离，不应小于4m。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，根据架空配电线路拉线装设规定，跨越道路的水平拉线对路面的垂直距离不应低于6米。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 141,
+   "id": 141
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "拉、合跌落式熔断器应缓慢平稳，但用力不能过猛，以免损坏跌落式熔断器。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 142,
+   "id": 142
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "拉线的巡视检查包含拉线有无歪斜，紧固螺丝是否松动，扎线有无松、断。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "拉线的巡视检查应包括锈蚀、断股、松弛、基础状况、金具固定是否牢固等关键点。题目中提到的“拉线有无歪斜”表述不当。拉线作为导线或钢绞线，通常不会以“歪斜”形式出现故障，其常见问题为松弛、断股或拉力缺失等。而“紧固螺丝是否松动”和“扎线有无松、断”属于合理检查项。根据《架空输电行规程》（DL/T741-2019）11.1.2条款，拉关注锈蚀、变形、损伤、张力异常及基础状态等，未坦乃“不剑”这一堪述用此题日丰述不准确",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 143,
+   "note": "答案按截图录入（判断题=错误）。题干本身看起来是常规巡视项，若原题库有误可复查。",
+   "id": 143
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "拉线的巡视检查内容包含三相驰度是否平衡，有无过紧、过松现象。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "拉线的主要功能是平衡电杆受力，确保线路结构稳定性。其巡视检查内容通常包括：拉线锈蚀/断股情况、UT线夹螺帽紧固状态、拉线棒变形/腐蚀、拉线张力是否均匀（过紧或过松）、外力破坏或周边环境容，而非拉线。《架空输电线路运行规程》（DL/T741-2019）中明确将导线弧垂（驰度）检查归类到",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 144,
+   "id": 144
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "雷电按其传播方式可分为直击雷和感应雷两种。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "雷电按其传播方式可分为直击雷、感应雷（包括静电感应和电磁感应）和球形雷三种。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 145,
+   "id": 145
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "雷击线路靠近地面时，导线上的感应雷过电压与导线的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "悬挂高度成反比"
+    },
+    {
+     "key": "B",
+     "text": "电阻率成反比"
+    },
+    {
+     "key": "C",
+     "text": "电阻率成正比"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "当雷击线路附近的地面时，导线上的感应雷过电压与导线的悬挂高度有直接关系。具体来说，感应雷过电压与雷电流成正比，同时与导线悬挂的平均高度也成正比。这一现象可以解释为：导线的高度越高，导线生的电压就愈高。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 146,
+   "id": 146
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "雷季经常运行的进出线路2条时，10kV避雷器与变压器的最大电气距离是（）m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "23"
+    },
+    {
+     "key": "B",
+     "text": "25"
+    },
+    {
+     "key": "C",
+     "text": "20"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 147,
+   "id": 147
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "连接金具的作用是（），并将一串或数串绝缘子连接起来悬挂在横担上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "将悬式绝缘子组装成串"
+    },
+    {
+     "key": "B",
+     "text": "用于作拉线的连接"
+    },
+    {
+     "key": "C",
+     "text": "用于作拉线的调节"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "连接金具在电力系统中扮演着重要的角色，它们的主要功能是将悬式绝缘子组装成串，并将这些串联的绝缘子组进一步连接起来，最终悬挂在横担上。这种结构对于高压输电线路的安全和稳定运行至关",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 148,
+   "id": 148
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "两个电阻并联，其等效电阻比其中任何一个电阻都大。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "这个说法是错误的。在电路理论中，当两个电阻并联时，其等效电阻的值实际上是小于其中任何一个单独电阻的阻值。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 149,
+   "id": 149
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "灵敏性是指继电保护对整个系统内故障的反应能力。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确x"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 150,
+   "id": 150
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "零序保护能反映中性点直接接地变压器内部的各种接地故障。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 151,
+   "id": 151
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "某10kV变电所采用环网供电，本变电所10kV负荷电流为60A，穿越电流为40A，10kV母线三相短路电流为1000A，则应按（）选择环网柜高压母线截面积。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1100A"
+    },
+    {
+     "key": "B",
+     "text": "100A"
+    },
+    {
+     "key": "C",
+     "text": "1060A"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 152,
+   "id": 152
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "某变电站避雷针架设高度为20m，则该避雷针在8m的高度的保护半径是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "14m"
+    },
+    {
+     "key": "B",
+     "text": "12m"
+    },
+    {
+     "key": "C",
+     "text": "18m"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "单支避雷针的保护范围计算公式如下：（1）当hx≥h/2，rx=（h-hx）p=hap；（2）当hx",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 153,
+   "id": 153
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "能够限制操作过电压的避雷器是（）避雷器。",
+   "options": [
+    {
+     "key": "A",
+     "text": "普通阀型"
+    },
+    {
+     "key": "B",
+     "text": "无间隙金属氧化物"
+    },
+    {
+     "key": "C",
+     "text": "管型"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "能够限制操作过电压的避雷器是无间隙金属氧化物避雷器。无间隙金属氧化物避雷器（MOA）具有优异的电压限制特性，能够有效地限制操作过电压。这种避雷器通过其特殊的物理和电气特性，能够在高电压环境下保持稳定的工作状态，从而保护电气过电压的损害。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 154,
+   "id": 154
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "镍是一种（）磁性物质。",
+   "options": [
+    {
+     "key": "A",
+     "text": "反"
+    },
+    {
+     "key": "B",
+     "text": "顺"
+    },
+    {
+     "key": "C",
+     "text": "铁"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "镍是一种铁磁性物质。镍（Ni）是一种硬而有延展性的金属，具有铁磁性，这意味着镍能够被磁铁吸引，并且在外部磁场的作用下能够被磁化。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 155,
+   "id": 155
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "配备应急电源时，对于允许中断供电时间在5h以上的供电系统，可选用快速自启动的发电机组。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "对于允许中断供电时间在5小时以上的供电系统，不应选用快速自启动的发电机组。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 156,
+   "id": 156
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "配电变压器采用YynO连接与Dyn11连接相比，有利于单相接地短路故障的保护和切除。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误S"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "Dyn11优于YynO，题干错误。配电变压器采用Dyn11连接相比YynO连接具有以下优点：1.有利于抑制高次谐波：Dyn11连接的变压器能够抑制高次谐波电流，这是因为其3n次（n为正整数）谐波励磁电流在一次绕组内形成环流，不致注入公共的高压电网中，从而减少了高次谐波对电网的影响。2单相接地短路故障的保护和切除：Dyn11连器的零序阻抗比YynO连接的变压器小得多，这使得Dn11冻培左切险低压单坦培地的短败坎陪亡面更为",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 157,
+   "id": 157
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "配电变压器套管在油箱上排列的顺序，一般从低压侧看，由左向右，三相变压器为高压U-V-W。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "配电变压器套管在油箱上的排列顺序，从低压侧看，由左向右，三相变压器为高压U1-V1-W1。这一说法是错误的。实际上，从变压器高压套管一侧看，从左到右的标号顺序为高压O，A，B，C；中压Om，Am，Bm，Cm；低压O，a，b，c。这表明三相套管标号排列与题干中的描述不符。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 158,
+   "id": 158
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "配电室电气设备运行操作是将电气设备运行状态固定的工作。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "配电室电气设备运行操作并不是将电气设备运行状态固定的工作。配电室电气设备的运行操作涉及到对电气设备的监控、维护和管理，以确保设备的正常运行和安全使用。这些操作包括但不限于设备的启动、停系统的稳定和安全。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 159,
+   "id": 159
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "频率自动调节装置可以提高电力系统的供电可靠性。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "频率自动调节装置不能提高电力系统的供电可靠性。频率自动调节装置是电力系统中的重要组成部分，其主要功能是维持电力系统的频率稳定，确保电力系统的正常运行。频率自动调节装置并不能直接提高电力系统的供电可靠性。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 160,
+   "id": 160
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "普通阀型避雷器由于阀片热容量有限，所以不允许在内部过电压下动作。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 161,
+   "id": 161
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "钳形电流表由电流互感器和带（）的磁电式表头组成。",
+   "options": [
+    {
+     "key": "A",
+     "text": "指针"
+    },
+    {
+     "key": "B",
+     "text": "测量电路"
+    },
+    {
+     "key": "C",
+     "text": "整流装置"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "钳形电流表简称钳形表，其工作部分主要由一只电磁式电流表和穿心式电流互感器组成。穿心式电流互感器铁心制成活动开口，且成钳形故名钳形电流表。是一种不需断开电路就可直接测电路交流电流的携带式仪表，在电气检修中使用非常方便，应用相当",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 162,
+   "id": 162
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "轻瓦斯动作后，表明内部发生严重故障，会跳断开变压器各侧的断路器。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "轻瓦斯动作后，不会跳开变压器各侧断路器。轻瓦斯动作通常是由于变压器内部过热或局部放电导致变压器油温上升，产生一定量的气体，这些气体汇集于继电器内，达到一定量后触动继电器，发出信号。这一来提醒操作人员注意，但并不直接导致断路器的跳开。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 163,
+   "id": 163
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "全密封变压器一般设有储油柜。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "全密封变压器一般不设有储油柜。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 164,
+   "id": 164
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "如果被测的接地电阻小于1Ω，应使用四端钮的接地电阻表。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "这一说法是正确的。使用四端钮的接地电阻表进行测量时，通过在电阻两端分别连接两个电流端和两个电压端，这种方法称为四端连接法，它通过减少测量误差来提高测量的准确性。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 165,
+   "id": 165
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "设备编号中，阿拉伯数字表示（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "设备数量"
+    },
+    {
+     "key": "B",
+     "text": "安装单位编号"
+    },
+    {
+     "key": "C",
+     "text": "设备顺序号"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在设备编号的系统中，阿拉伯数字用于标识设备的顺序号。这种编号方式通常遵循一定的规则，以确保每个设备都有一个唯一的编号，便于管理和识别。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 166,
+   "id": 166
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "设备编号中，罗马数字表示（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "安装单位编号"
+    },
+    {
+     "key": "B",
+     "text": "设备顺序号"
+    },
+    {
+     "key": "C",
+     "text": "设备数量"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "在设备编号系统中，罗马数字的使用有其特定的含义。根据相关资料，罗马数字主要用于标识安装单位的编号，如、Ⅱ、Ⅲ等，这些罗马数字实际上代表了安装单位的数量。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 167,
+   "id": 167
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "生产经营单位的从业人员有依法获得安全生产保障的义务，并适当地行使安全生产方面的权利。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，生产经营单位的从业人员有依法获得安全生产保障的权利，并应当依法履行安全生产方面的义务。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 168,
+   "id": 168
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "剩余电流保护器的额定动作电流是指能使剩余电流保护器动作的最大电流。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "错误。剩余电流保护器（RCD）的额定动作电流是指能使RCD动作的最小电流。当泄漏电流小于此值时，被认为是正常的泄漏电流，RCD不会动作。一旦泄漏电流大于此值，则RCD会动作以切断电源或报警。额定动作电流越小，漏电保护动作的灵敏度就越高，提供的保护也越安全。但如果灵敏度可能会降低供电的可靠性。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 169,
+   "id": 169
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "剩余电流保护器负荷侧的工作零线可以接地。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "剩余电流保护器负荷侧的工作零线不可以接地。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 170,
+   "id": 170
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "剩余电流动作保护装置主要用于1000V以下的低压系统。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "这一说法是正确的。剩余电流动作保护装置的设计和使用主要是为了保护低压系统，特别是1000V以下的系统，以防止电击和其他电气事故。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 171,
+   "id": 171
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "剩余动作电流小于或等于0.3A的剩余电流保护器属于高灵敏度剩余电流保护器。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "剩余动作电流小于或等于0.3A的RCD不属于高灵敏度RCD",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 172,
+   "id": 172
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "时间继电器的触点不可以直接闭合断路器的跳闸线圈回路。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。时间继电器的触点不可以直接闭合断路器的跳闸线圈回路，而电流继电器才具有直接闭合断路器的跳闸线圈回路的功能。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 173,
+   "id": 173
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "使用万用表电阻档能够测量变压器的线圈电阻。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "直接使用万用表电阻档来测量变压器线圈电阻可能会导致不准确的结果，甚至可能对万用表或变压器造成损害。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 174,
+   "id": 174
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "使用竹梯作业时，梯子放置与地面夹角以50°左右为宜。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "梯子与地面夹角60度为宜。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 175,
+   "id": 175
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "手持电动工具有两种分类方式，即按工作电压分类和按防潮程度分类。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "这个说法是错误的。手持电动工具实际上并不是仅仅按照工作电压和防潮程度进行分类的。根据《手持式电动工具的管理、使用检查和维修安全技术规程》（GB3787-93），手持电动工具是按照触电保护措施的接零（地）来防止触电。2.ⅡI类工具：采用双重绝缘或加强绝缘来防止触电。3.Ⅲ类工具：采用安全特",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 176,
+   "id": 176
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "属于电气设备不正常运行状态是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "单相短路"
+    },
+    {
+     "key": "B",
+     "text": "单相断线"
+    },
+    {
+     "key": "C",
+     "text": "系统振荡"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 177,
+   "id": 177
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "所谓内部过电压的倍数就是内部过电压的（）与电网最大工频相电压有效值的比值。",
+   "options": [
+    {
+     "key": "A",
+     "text": "幅值"
+    },
+    {
+     "key": "B",
+     "text": "有效值"
+    },
+    {
+     "key": "C",
+     "text": "平均值"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "内部过电压的能量来源于电网本身，因此其幅值与电网的工频电压有一定的倍数关系。这种倍数关系通常以系统的最高运行相电压为基础来计算过电压的倍数。内部过电压倍数定义为内部过电压的幅最高运行相电压幅值的比值，这个比值反映了过电压相对于系统工作电压的大小。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 178,
+   "id": 178
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "所谓线圈的同极性端，是指当电流从两个线圈的同极性端流入（或流出）时，产生的磁通方向相反。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "所谓线圈的同极性端，是指当电流从两个线圈的同极性端流入（或流出）时，产生的磁通方向相同。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 179,
+   "id": 179
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "所有的电桥均是测量直流电阻的。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "电桥的设计并非都是为了测量直流电阻。例如，RLC电桥主要是为了测量电感（L）和电容（C），而不是专门用于测量电阻（R）。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 180,
+   "id": 180
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "铁磁性物质的相对导磁率（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "远大于1"
+    },
+    {
+     "key": "B",
+     "text": "等于1"
+    },
+    {
+     "key": "C",
+     "text": "略大于1"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "铁磁性物质在很小的磁场作用下就能被磁化到饱和，其磁化强度与磁场强度之间的关系是非线性的复杂函数关系，这种特性使得铁磁性物质的磁化率不仅大于0，而且数值大到10^-10^6数量级。相对磁导率，即物质而言，其相对导磁率远大于1。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 181,
+   "id": 181
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "通过与磁场方向平行的某一面积上的磁力线总线，称为通过该面积的磁通。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，通过与磁场方向垂直的某一面积上的磁力线总线，称为通过该面积的磁通。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 182,
+   "id": 182
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "完成工作许可手续后，（）应向工作班人员交代现场安全措施、带电部位和其他注意事项。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作负责人"
+    },
+    {
+     "key": "B",
+     "text": "被监护人员"
+    },
+    {
+     "key": "C",
+     "text": "工作许可人"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "《电力安全工作规程（电力线路部分）》中规定，明确指出工作负责人的安全责任包括正确地、安全地组织工作。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 183,
+   "id": 183
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "万用表测量电压时是通过改变并联附加电阻的阻值来改变测量不同电压的量程。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "万用表测量电压的原理是通过改变串联电阻的分压作用来改变测量不同电压的量程，而不是通过改变并联附加电阻的阻值。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 184,
+   "id": 184
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "万用表由表头、（）及转换开关三个主要部分组成。",
+   "options": [
+    {
+     "key": "A",
+     "text": "测量电路"
+    },
+    {
+     "key": "B",
+     "text": "指针"
+    },
+    {
+     "key": "C",
+     "text": "线圈"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "万用表是一种多功能电子测量工具，能够测量交流/直流电压、电流、电阻等多种电学量。它的核心组成部分包括：1.表头：用于显示测量结果的部分常是一个电流表头或者电压表头。2.测量电是万用表的核心电路，负责将各种待测信号转换为表斗可以显示的由流或由压信号3转地开关：思于",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 185,
+   "id": 185
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "为了保证频率偏差不超过规定值，必须维持电力系统的（）平衡，采取相应的调频措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "有功功率"
+    },
+    {
+     "key": "B",
+     "text": "自然功率"
+    },
+    {
+     "key": "C",
+     "text": "无功功率"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "有功功率：是指单位时间内实际发出或消耗的交流电能量，是周期内的平均功率。单相电路中等于电压有效值、电流有效值和功率因数的乘积。多相电路中等于相数乘以每相的有功功率。为了保证频率过规定值，必须维持电力系统的有功功率平衡，采取相应的调频措施。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 186,
+   "id": 186
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "为了考核电气设备的绝缘水平，我国规定：10kV对应的允许最高工作电压为12kV。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确，为了考核电气设备的绝缘水平，我国规定10kV对应的允许最高工作电压为12kV。这一规定确保了电气设备在12kV的工作电压下仍能保持良好的绝缘性能，从而保障电力系统的安全运行。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 187,
+   "id": 187
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "为了限制6～10kV配电装置中的短路电流，可以在母线上装设（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "并联电容器"
+    },
+    {
+     "key": "B",
+     "text": "避雷器"
+    },
+    {
+     "key": "C",
+     "text": "分段电抗器"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在6～10kV配电装置中，为了限制短路电流，采取的措施之一是在母线上安装分段电抗器。分段电抗器的作用是通过增加电路的电抗，从而限制短路电流的大量。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 188,
+   "id": 188
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "我国6kV电网，为提高供电的可靠性，一般采用中性点直接接地的运行方式。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "错误，我国10KV电网一般采用中性点不接地的运行方式，中性点不接地系统中如果发生单相接地故障，系统的相电压和线电压仍然是平衡对称的，流过故障点的接地电流是电容电流，其数值不大，一般不致于能形成稳定的电弧燃烧，而且能迅速自行熄灭，此时电网仍可继续运行，无需令断路器跳闸，所定允许带故障运行1-2小时，以便寻找接地线除故障，而不引起对用户供电的中断。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 189,
+   "id": 189
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "屋顶上单支避雷针的保护范围可按45°保护角确定。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "错误，屋顶上单支避雷针的保护范围实际上是根据不同的计算方法确定的。对于一般建筑物，通常采用的是60°的保护角，而不是45°。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 190,
+   "id": 190
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "下列安全用具是在电气操作中使用的基本安全用具的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "绝缘手套、验电器"
+    },
+    {
+     "key": "B",
+     "text": "验电器、绝缘夹钳"
+    },
+    {
+     "key": "C",
+     "text": "绝缘鞋、绝缘站台"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "电气操作中的基本安全用具主要包括能够直接操作电气设备的工具，这些工具能够长时间承受电气设备的工作电压，确保操作人员的安全。绝缘夹钳因其能够直接用来操作电气设备，且其绝缘强度能够承受电气",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 191,
+   "id": 191
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "下列属于辅助安全用具的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "绝缘手套、绝缘靴"
+    },
+    {
+     "key": "B",
+     "text": "绝缘棒、绝缘夹钳"
+    },
+    {
+     "key": "C",
+     "text": "携带型接地线、临时遮栏"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "属于辅助安全用具的是绝缘台、绝缘手套、防护眼镜。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 192,
+   "id": 192
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "限流式高压熔断器内部设有限制和调整短路电流大小的装置。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "限流式高压熔断器内部并不设有限制和调整短路电流大小的装置。尽管限流式高压熔断器能够在一定程度上控制短路电流，但它并不直接设有限制和调整短路电流大小的装置。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 193,
+   "id": 193
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "限时电流速断保护可以保护线路全长。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "这一说法是正确的。限时电流速断保护是一种电力保护措施，设计用于保护电力线路免受过载或短路等故障的损害。这种保护机制能够覆盖整个线路长度，确保在故障发生时，能够迅速切断电流，防止故障扩散到其他部分或影响更广泛的区域。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 194,
+   "id": 194
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "线路转角即为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "线路转向的补角"
+    },
+    {
+     "key": "B",
+     "text": "线路转向内角"
+    },
+    {
+     "key": "C",
+     "text": "线路转向内角的补角"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "线路转角，也称为路线转角，简称偏角或转角，是指路线由一个方向偏向另一个方向时，偏转后的方向与原方向的夹角。这个夹角可以用α来表示。当偏转后的方向位于原方向的左侧时，称为左偏，即左转角；当偏转后的方向位于原方向的右侧时，称为右偏，即右转角。因此，线路转角具体指的是路线转补角。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 195,
+   "id": 195
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "相对编号常用于（）中。",
+   "options": [
+    {
+     "key": "A",
+     "text": "归总式原理图"
+    },
+    {
+     "key": "B",
+     "text": "安装接线图"
+    },
+    {
+     "key": "C",
+     "text": "屏面布置图"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "相对编号是电气图纸中常用的一种标识方法，特别是在安装接线图中。这种图纸也被称为电气原理图的具体实现形式，直接用于施工安装配线。相对编号的使用使得安装接线图能够清晰地展示电气线路的连接关系，便于施工人员进行线路的安装和连接。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 196,
+   "id": 196
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "相对编号的常用格式是设备编号-接线端子号。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 197,
+   "id": 197
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "橡皮绝缘电缆允许最高工作温度（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "90℃"
+    },
+    {
+     "key": "B",
+     "text": "65℃"
+    },
+    {
+     "key": "C",
+     "text": "70℃"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "橡皮绝缘电缆允许最高工作温度是65℃。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 198,
+   "id": 198
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "消弧线圈实际是一个铁芯线圈，其电阻很小，（）很大。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电阻"
+    },
+    {
+     "key": "B",
+     "text": "电容"
+    },
+    {
+     "key": "C",
+     "text": "电抗"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "消弧线圈是一种带铁芯的电感线圈，其主要作用是通过提供一个电感性的电流，来补偿电力系统中的电容性故障电流，从而减小故障电流，帮助电弧自行熄灭，防止接地故障引起的过电压。这种线圈设计的特点是电阻值较小，而电抗值较大。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 199,
+   "id": 199
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "摇表可以直接对被测设备进行绝缘测量。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "直接对被测设备进行绝缘测量是不正确的做法，必须先进行必要的检查和准备工作。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 200,
+   "id": 200
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "摇表摇动后产生的电压，L端为负极，E端为正极。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 201,
+   "id": 201
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "液压操作机构的优点之一是动作速度不受温度影响。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，高温对液压油的影响：1.加速氧化：高温环境下，液压油的氧化速度加快，导致液压油颜色加深、产生酸性物质和沉淀物，这些沉淀物可能会堵塞液压系统中的过滤器、阀门和管道，降低系统的流量和压力，从而影响设备的正常运行。2.降低粘度：高温会降低液压油的粘度，减少润滑性能，不能在液压元件之间形成有效的油膜，增加元件之间的摩擦和磨损，可能导致系统泄漏，降低系效率。3.产生气泡：高温降低液压油中的空气溶解度，容易产生气泡，导致液压系统中的气蚀，损坏液",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 202,
+   "id": 202
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "一般防护安全用具有携带型接地线、临时遮栏、绝缘垫、标示牌、警告牌、安全带、防护目镜等。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "绝缘垫属于绝缘安全用具。绝缘安全用具包括：绝缘棒（令克棒）、验电器、绝缘夹钳、绝缘手套和绝缘靴以及绝缘垫和绝缘台；一般防护用具包括：携带型接地线、隔离板和临时遮栏、安全腰带。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 203,
+   "id": 203
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "一般规定参考点的电位为（）V。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1"
+    },
+    {
+     "key": "B",
+     "text": "-1"
+    },
+    {
+     "key": "C",
+     "text": "0"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在电路分析和设计中，选择一个参考点（通常是接地端或某个固定电位点）是非常重要的，以便于比较和计算其他点的电位。这个参考点的电位通常被规定为OV，以便于简化电路分析和计算过程。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 204,
+   "id": 204
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "一般情况下，直线杆横担和杆顶支架装在（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "拉线侧"
+    },
+    {
+     "key": "B",
+     "text": "受电侧"
+    },
+    {
+     "key": "C",
+     "text": "供电侧"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "从终端杆的设计角度出发，考虑到终端杆应该是双横担的设计，而受电测即负荷侧，因此直线杆横担通常安装在受电侧。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 205,
+   "id": 205
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "一个电压互感器，其变比K=1000，二次侧电压表读数为35V，则被测电压一次侧为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "35V"
+    },
+    {
+     "key": "B",
+     "text": "35×10-3V"
+    },
+    {
+     "key": "C",
+     "text": "35×103V"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "一次侧电压=二次侧电压×变比一次侧电压=35V×1000=35000V",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 206,
+   "id": 206
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "一式二份的工作票，一份必须经常保存在工作地点，由（）收执，另一份由运行值班人员收执，按班移交。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作票签发人"
+    },
+    {
+     "key": "B",
+     "text": "工作许可人"
+    },
+    {
+     "key": "C",
+     "text": "工作负责人"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "样可以在工作过程中随时查阅，确保工作的安全进行。另一份工作票则由运行值班人员收执，并按照值",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 207,
+   "id": 207
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "依据《生产安全事故报告和调查处理条例》，事故发生后，事故现场有关人员应当立即向应急管理部门报告。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "依据《生产安全事故报告和调查处理条例》第九条事故发生后，事故现场有关人员应当立即向本单位负责人报告；单位负责人接到报告后，应当于1时中向事故发生地县级以上人民政府安全生产监门和负有安全生产监督管理职责的有关部门报告。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 208,
+   "id": 208
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "依据《突发事件应对法》，突发事件应对工作实行预防为主、防治结合的原则。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，依据《突发事件应对法》第五条突发事件应对工作应当坚持总体国家安全观，统筹发展与安全；坚持人民至上、生命至上；坚持依法科学应对，尊重和保障人权；坚持预防为主、预防与应急相结合。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 209,
+   "id": 209
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "移动电气设备的电源一般采用架设或穿钢管保护的方式。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "这个说法是正确的。这一做法主要是出于安全考虑，通过架设或穿钢管保护的方式，可以有效防止电源线路因外界因素（如机械损伤、化学腐蚀等）而受损，从而保障电气设备的正常运行和操作人员的安全。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 210,
+   "id": 210
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "移动式电气设备应有独立接地体。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "移动式电气设备不应有独立接地体的原因是为了确保电气安全和提高设备的可靠性。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 211,
+   "id": 211
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "已知电路的电流为4A，电阻为10Ω，则该电路端电压为（）V。",
+   "options": [
+    {
+     "key": "A",
+     "text": "40"
+    },
+    {
+     "key": "B",
+     "text": "0.4"
+    },
+    {
+     "key": "C",
+     "text": "2.5"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "欧姆定律是描述电路中电流、电压和电阻之间关系的基本定律，其公式为：U=IR，其中U是电路两端的电压，I是通过电路的电流，R是电路的电阻。已知由是电路两端的电压U。将已知数值代入欧姆定律的公式中，得到：U=IR=4A×10Ω=40V所以，该电路端",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 212,
+   "id": 212
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "已知电源电动势为30V，电源内阻为2Ω，外接负载电阻为8Ω，则电源端电压为（）V。",
+   "options": [
+    {
+     "key": "A",
+     "text": "6"
+    },
+    {
+     "key": "B",
+     "text": "12"
+    },
+    {
+     "key": "C",
+     "text": "24"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "电源电动势（E）是电源能够提供的最大电压，而电源内阻（r）和外接负载电阻（R）共同决定了电路中的实际电压分配。根据欧姆定律和电路的基本原理，电源端电压（U）可以通过以下公式计（E/（R+r））*R。在这个问题中，电源电动势E为30V，电源内阻r为2Ω，外接负载电阻R为8Ω。将这",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 213,
+   "id": 213
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "已知电源内阻为4Ω，外接负载电阻为10Ω，电路电流为5A，则电源端电压为（）V。",
+   "options": [
+    {
+     "key": "A",
+     "text": "20"
+    },
+    {
+     "key": "B",
+     "text": "50"
+    },
+    {
+     "key": "C",
+     "text": "70"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "V=IR，电源端电压为50V",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 214,
+   "id": 214
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "以下不属于防止直接接触电击方法的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "采用特低电压"
+    },
+    {
+     "key": "B",
+     "text": "保护接地"
+    },
+    {
+     "key": "C",
+     "text": "绝缘防护"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "保护接地是防止间接触电的防护措施。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 215,
+   "id": 215
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "因为A级绝缘在98℃时产生的绝缘损坏为正常损坏，而绕组最热点与其平均温度之差为13℃，保证变压器正常寿命的年平均气温是20℃，所以绕组温升限值为100℃。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，绕组温升限值计算为：98损坏温度）+13℃（最热点与平均温度之差）+20℃（年平均气温）=109℃。这个值代表了绕组在运行",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 216,
+   "id": 216
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "永磁操作机构是利用分合闸线圈中长期通过的电流来保持断路器的分、合闸状态。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "这个说法是错误的。永磁操作机构并不依赖分合闸线圈中长期通过的电流来保持断路器的分、合闸状态。相反，永磁操作机构利用的是永磁体产生的磁场与分合闸线圈产生的磁场叠加来完成分合闸操作的操动机构。个收营",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 217,
+   "id": 217
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "用户变电站或配电室进行并路倒闸时，不应自行停用进线保护。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，在用户变电站或配电室进行并路倒闸操作时，应自行停用进线保护是为了确保安全和保护电力系统的稳定运行。这样做有以下几个原因：1.避免误操作：自行停用进线保护可以防止倒闸操作与进电流、电压等参数，一旦检测到异常情况，如短路或过载，会立即切断电源以保护电力设备和负载。2.保",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 218,
+   "id": 218
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "用户用的电力变压器一般为无载调压型，其高压绕组一般有（）的电压分接头，当用电设备电压偏低时，可将变压器电压分接头放在较低档。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1±1×2.5%"
+    },
+    {
+     "key": "B",
+     "text": "1±3×2.5%"
+    },
+    {
+     "key": "C",
+     "text": "1±2×2.5%"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "固定式分接开关，俗称分接头，也叫做无载压器的固定式分接开关，是安装在变压器的高的，它的调整范围是变压器高压侧额定电压",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 219,
+   "id": 219
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "用楞次定律可判断感应电动势（电流）的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "大小和方向"
+    },
+    {
+     "key": "B",
+     "text": "大小"
+    },
+    {
+     "key": "C",
+     "text": "方向"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "楞次定律提供了判断感应电流方向的方法，进而可以确定感应电动势的方向。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 220,
+   "id": 220
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "用万用表测量电阻时，黑表笔接表内电源的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正极"
+    },
+    {
+     "key": "B",
+     "text": "负极"
+    },
+    {
+     "key": "C",
+     "text": "两极"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "1.在测量电阻时，由于被测电路本身不带电，万用表需要依靠内部电池提供电流。此时，黑表笔实际上连接的是内部电池的正极，红表笔连接的是负电流才能从黑表笔流出，经过被测电阻后流笔，形成闭合回路，从而测量出电阻值。2.在测量由压或由流时红表笔心须连培被测由路的正极黑",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 221,
+   "id": 221
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "用右手螺旋定则判定长直载流导线的磁场时，右手握住导线，伸直拇指，大拇指指向磁场的方向，则四指环绕的方向为电流的方向。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，四指环绕的方向为磁场的方向。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 222,
+   "id": 222
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "用作线路或电气设备的主要保护是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "过电压"
+    },
+    {
+     "key": "B",
+     "text": "过负荷"
+    },
+    {
+     "key": "C",
+     "text": "电流速断"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "电流速断保护被用作线路或电气设备的主要保护是因为其能够迅速切断过载或短路情况下的电流，有效地防止电路损坏和火灾等安全事故的发生。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 223,
+   "id": 223
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "云中的水滴受强烈气流的摩擦产生电荷，而且小水滴带（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正电"
+    },
+    {
+     "key": "B",
+     "text": "静电"
+    },
+    {
+     "key": "C",
+     "text": "负电"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "云中的水滴受到强烈气流的摩擦时，会产生电荷。这是因为水滴表面的离子数量较多，使得水滴容易获得电子而带负电。这一过程涉及到水滴在高速气流中的运动，导致水滴分裂成带负电的较大颗粒和带正电的被上升气流携带到高空，从而形成了云层中正负电何的分布。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 224,
+   "id": 224
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "匝间短路保护属于按（）分类。",
+   "options": [
+    {
+     "key": "A",
+     "text": "被保护的对象"
+    },
+    {
+     "key": "B",
+     "text": "保护原理"
+    },
+    {
+     "key": "C",
+     "text": "保护所反映的故障类型"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "匝间短路保护专门用于保护发电机和电动机的匝间短路故障，属于按保护所反映的故障类型分类的一种。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 225,
+   "id": 225
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在安全事故发生后，负有报告职责的人员不报或者谎报事故情况，贻误事故抢救，情节严重的，将被处以罚款或拘留。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，在安全事故发生后，负有报告职责的人员不报或者谎报事故情况，贻误事故抢救，情节严重的，处三年以下有期徒刑或者拘役；情节特严重的，处三年以上七年以下有期徒刑。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 226,
+   "id": 226
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在变配电所内工作时，工作许可人应到现场检查所做的安全措施是否完备、可靠，并检验、证明、检修设备确无电压。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，工作许可人应会同工作负责人到现场检查所做的安全措施是否完备、可靠，并检验、证明、检修设备确无电压。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 227,
+   "id": 227
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在变配电站停电检修或安装时，（）负责完成安全技术措施与安全组织措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "值班员"
+    },
+    {
+     "key": "B",
+     "text": "检修人员"
+    },
+    {
+     "key": "C",
+     "text": "监护人"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 228,
+   "id": 228
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在纯电感交流电路中，电路的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "有功功率大于零"
+    },
+    {
+     "key": "B",
+     "text": "有功功率等于零"
+    },
+    {
+     "key": "C",
+     "text": "有功功率小于零"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "有功功率是指单位时间内实际发出或消耗的交流电能量，是周期内的平均功率。单相电路中等于电压有效值、电流有效值和功率因数的乘积。多相电路中等于相数乘以每相的有功功率。单位为瓦、千瓦在纯电感交流电路中，电路的有功功率等于零。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 229,
+   "id": 229
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在纯电感交流电路中，电路的无功功率（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "等于零"
+    },
+    {
+     "key": "B",
+     "text": "小于电路电压与电流的有效值的乘积"
+    },
+    {
+     "key": "C",
+     "text": "等于电路电压与电流的有效值的乘积"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "纯电感电路是指除交变电源外，只含有电感元件的电路。电感两端的电压与电流同频，但电压比电流的相位超前π/2，线圈不消耗能量。在纯电感交流中电路的无功功率等于电路电压与电流的有效积。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 230,
+   "id": 230
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在纯电阻电路中，电流和电压（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "反相位"
+    },
+    {
+     "key": "B",
+     "text": "相位差为π/2"
+    },
+    {
+     "key": "C",
+     "text": "同相位"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "纯电阻电路即为电路中不含感性及容性负荷的电路。在这样的电路中电压与电流是同相位的，及他们之间的相位为零；若为感性电路，则电压超前电流90°；若为容性电路，则电流超前电压90°。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 231,
+   "id": 231
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在电力系统正常状态下，电网装机容量在3000MW及以上，供电频率允许偏差为±0.3Hz。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，当电网装机容量在3000MW及以上时，供电频率允许偏差的正确值是±0.2Hz，而不是±0.3Hz。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 232,
+   "id": 232
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在电力系统中，对于供电距离太长、线路导线截面太小、变压级数太多等引起的电压下降，可采用调整变压器分接头降低线路阻抗等方法解决。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 233,
+   "id": 233
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在电气设备上工作，保证安全的组织措施有：工作票制度；工作许可制度；工作监护制度及（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作间断转移和终结制度"
+    },
+    {
+     "key": "B",
+     "text": "操作票制度"
+    },
+    {
+     "key": "C",
+     "text": "安全保卫制度"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "作票制度：这是确保工作许可和完成记录的重要步骤，通过填写工作票来明确工作的内容、范围和时",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 234,
+   "id": 234
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在电源内部，正电荷是由（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "低电位移向高电位"
+    },
+    {
+     "key": "B",
+     "text": "高电位移向低电位"
+    },
+    {
+     "key": "C",
+     "text": "高电位移向参考电位"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "在电源内部，由于电动势的作用（其表达式为E=W/Q，电动势的正方向规定为由低电位指向高电位）正电荷是由低电位移向高电位。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 235,
+   "id": 235
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在电阻并联的电路中，电路的电流等于各分支电流之和。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 236,
+   "id": 236
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在电阻并联的电路中，电路的端电压U等于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "各并联支路的端电压"
+    },
+    {
+     "key": "B",
+     "text": "各并联支路端电压的平均值"
+    },
+    {
+     "key": "C",
+     "text": "各并联支路的端电压之和"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "并联电路的特点是各支路两端的电压相等，且等于电源电压。在并联电路中，当多个电阻以并联方式连接时，它们的一端连接在一起，另一端也连接在一起，形成一个分支电路。由于电压是两点之间的电势差，而并联连接意味着各支路直接连接到共同的因此各支路的电压必然相等，且等于电源电压。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 237,
+   "id": 237
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在电阻并联的电路中，电路的端电压U等于各并联电阻的端电压之和。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "在并联电路中，各个并联电阻的端电压是相同的，而不是它们的电压之和。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 238,
+   "id": 238
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在电阻串联的电路中，电路的端电压U等于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "各串联电阻端电压的总和"
+    },
+    {
+     "key": "B",
+     "text": "各串联电阻端电压的最小值"
+    },
+    {
+     "key": "C",
+     "text": "各串联电阻端电压的最大值"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "在电阻串联的电路中，电路的端电压U等于各串联电阻端电压的总和。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 239,
+   "id": 239
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在电阻串联的电路中，电路的总电阻等于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "各串联电阻之和的倒数"
+    },
+    {
+     "key": "B",
+     "text": "各串联电阻之和"
+    },
+    {
+     "key": "C",
+     "text": "各串联电阻的平均值"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "在串联电路中，各个电阻按照顺序连接，电流通过每个电阻时，所遇到的阻力累加起来，形成总阻力，即总电阻。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 240,
+   "id": 240
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在电阻串联的电路中，电路的总功率等于各串联电阻的功率之和。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 241,
+   "id": 241
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在电阻串联的电路中，流过电路的总电流等于各串联电阻上电流之和。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题干描述错误，“流过电路的总电流等于各串联电阻上电流之和”。这个说法是不正确的。因为在串联电路中，电流并不是在各个电阻上分别产生后再相加，而是从电源出发，经过每一个串联的电阻，其大小保一个串联电阻的电流，它们之间是相等的，而不是相加的关系。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 242,
+   "id": 242
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在短路后约半个周波（0.01s）时将出现短路电流的最小瞬时值，称为冲击电流。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "这个说法是错误的。短路后约半个周波（0.01秒）时出现的并不是短路电流的最小瞬时值，而是短路电流的最大可能的瞬时值，这被称为短路冲击电流。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 243,
+   "id": 243
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在负荷不变的情况下，配电系统电压等级由10kV升至20kV，功率损耗降低至原来的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "20%"
+    },
+    {
+     "key": "B",
+     "text": "10%"
+    },
+    {
+     "key": "C",
+     "text": "25%"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "在负荷不变的情况下，配电系统电压等级由10kV升至20kV，功率损耗将降低至原来的四分之一（或说降低75%）。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 244,
+   "id": 244
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在高压线路发生火灾时，应采用有相应绝缘等级的绝缘工具，迅速拉开隔离开关切断电源，选择二氧化碳或者干粉灭火器进行灭火。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "在高压线路发生火灾时，应迅速断开断路器，而不是隔离开关。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 245,
+   "id": 245
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在过电压作用过去后，阀型避雷器中流过雷电流。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "题干描述错误，在过电压作用过去后，阀型避雷器中并不流过雷电流。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 246,
+   "id": 246
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在交流电路中，电感元件的感抗与线圈的电感（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "无关系"
+    },
+    {
+     "key": "B",
+     "text": "成反比"
+    },
+    {
+     "key": "C",
+     "text": "成正比"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "电感元件在交流电路中的作用是通过产生自感电动势来阻碍电流的变化。这种阻碍作用的大小与电感的数值成正比，即电感越大，对交流电流的阻碍作用越强。当交流电通过电感元件时，其感抗（即阻碍交流电的能力）与线圈的电感值成正比关系。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 247,
+   "id": 247
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在开关电器中，气体吹动电弧的方法为纵吹时，气体吹动方向与电弧轴线相（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "垂直"
+    },
+    {
+     "key": "B",
+     "text": "平行"
+    },
+    {
+     "key": "C",
+     "text": "倾斜30°角度"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "在开关电器中，纵吹方法指的是气体吹动方向与电弧轴线相平行。这种吹动方式有助于有效地控制电弧的移动和散热，从而提高电器设备的性能和安全性纵吹的实现基于电弧的物理特性，通过平行于的气体流动，可以更有效地冷却电弧，减少电弧的持续时间，进而提高开关电器的断流能力。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 248,
+   "id": 248
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在靠近线路末端附近发生短路故障时，短路电流达不到动作值，电流速断保护不会启动。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 249,
+   "id": 249
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在全部停电和部分停电的电气设备上工作时，必须完成的技术措施有：停电、（）、挂接地线、装设遮栏和悬挂标示牌。",
+   "options": [
+    {
+     "key": "A",
+     "text": "验电"
+    },
+    {
+     "key": "B",
+     "text": "巡视安全检查"
+    },
+    {
+     "key": "C",
+     "text": "放电"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "成的技术措施包括：停电、验电、挂接地线、装设遮栏和悬挂标示牌。这些措施旨在确保工作人员的安",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 250,
+   "id": 250
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在生产、作业中违反有关安全管理的规定，因存在重大事故隐患被依法责令停产停业、停止施工、停止使用有关设备、设施、场所或者立即采取排除危险的整改措施，而拒不执行的，具有发生重大伤亡事故或者其他严重后果的现实危险的，处一年以下有期徒刑、拘役或者管制。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": null,
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 251,
+   "id": 251
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在生产、作业中违反有关安全管理的规定，因而发生重大伤亡事故或者造成其他严重后果，情节特别恶劣的，处三年以下有期徒刑或者拘役。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "根据我国《刑法》第一百三十四条的规定，在生产、作业中违反有关安全管理的规定，因而发生事故或者造成其他严重后果的，处三年以下或者拘役；情节特别恶劣的，处三年以上七年以下有1μ+>0",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 252,
+   "id": 252
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在同一电气连接部分用同一工作票依次在几个工作地点转移工作时，全部安全措施由（）在开工前一次做完，不需要办理转移手续。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作负责人"
+    },
+    {
+     "key": "B",
+     "text": "工作票签发人"
+    },
+    {
+     "key": "C",
+     "text": "工作班成员"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "由工作负责人再看工钱一次做完。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 253,
+   "id": 253
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在一般场所，为保证使用安全，应选用（）电动工具。",
+   "options": [
+    {
+     "key": "A",
+     "text": "类"
+    },
+    {
+     "key": "B",
+     "text": "I类或Ⅱ类"
+    },
+    {
+     "key": "C",
+     "text": "I类"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "II类工具即绝缘结构全部为双重绝缘结构的电动工具。其规定电压超过50VII类工具不允许设置接地装置。一般为绝缘外壳。通俗地讲，ⅡI类工具的设计制造者将操作者的个人防护用品以可靠有的方法置于工下，当基本绝缘损坏失效时，由附加绝缘和加强绝缘提供触电保护。ⅡI类工具必须采用加强绝缘电源插头，",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 254,
+   "id": 254
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在运行中，（）和电火花或电弧等都是电气火灾的直接原因。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电流的热量"
+    },
+    {
+     "key": "B",
+     "text": "环境温度"
+    },
+    {
+     "key": "C",
+     "text": "电压高低"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "电流通过导体时，由于自由电子的碰撞，导体的温度会升高。这是因为导体将吸收的电能转换成为热能的缘故，这种现象被称为电流的热效应。实验电流通过电阻时，电流作功而消耗电能，产量。这种现象不仅会导致电气设备的过热，增加火灾的风险而日由流的执效应和由小花或由弧等都是由",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 255,
+   "id": 255
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在展开式原理图中，属于同一元件的线圈、接点，应采用相同的文字符号表示。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 256,
+   "id": 256
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在直流电路中，电感元件的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "感抗值小于零"
+    },
+    {
+     "key": "B",
+     "text": "感抗值大于零"
+    },
+    {
+     "key": "C",
+     "text": "感抗值等于零"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "电感元件在直流电路中的主要作用是阻碍电流的瞬间变化，但一旦电流稳定（即不再变化），电感元件对直流电流的阻碍作用就几乎不存在了。当电流达到稳定状态（即不再变化）时，磁场变化率为零，自感电动势也降为零。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 257,
+   "id": 257
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在中性点不接地的电力系统中，单相接地故障运行时间一般不应超过2h。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 258,
+   "id": 258
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在中性点不接地的电力系统中，当系统发生单相完全接地故障时，单相接地电流数值上等于系统正常运行时每相对地电容电流的（）倍。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1"
+    },
+    {
+     "key": "B",
+     "text": "2"
+    },
+    {
+     "key": "C",
+     "text": "3"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 259,
+   "id": 259
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在中性点不接地系统中发生单相金属性接地时，健全相对地电压为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "相电压"
+    },
+    {
+     "key": "B",
+     "text": "0"
+    },
+    {
+     "key": "C",
+     "text": "线电压"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "正确答案：线电压。在中性点不接地系统中，当发生单相金属性接地（如A相直接接地）时，接地相电压降为0，而健全相（B、C相）对地电压会从原来的相单相接地后，中性点电位发生偏移，健全相对地电压变为相间电压。例如，10kV系统中正常相电压为",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 260,
+   "id": 260
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在转移工作地点时，（）应向工作人员交代带电范围、安全措施和注意事项。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作票签发人"
+    },
+    {
+     "key": "B",
+     "text": "工作负责人"
+    },
+    {
+     "key": "C",
+     "text": "工作许可人"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "工作负责人是负责向工作人员交代这些关键信息的关键角色。工作负责人的职责包括但不限于：1.交代带电范围：确保工作人员清楚哪些区域是带电的避措施：提供必要的安全装备和使用方法，确保工作人员在作业过程中有足够的安全保障。3.交代注意事）",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 261,
+   "id": 261
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "造成运行中的高压电容器发热的原因之一是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "内部发生局部放电"
+    },
+    {
+     "key": "B",
+     "text": "频繁投切使电容器反复受浪涌电流影响"
+    },
+    {
+     "key": "C",
+     "text": "外壳机械损伤"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "高压电容器在运行过程中，如果频繁地被投切，会导致电容器反复受到浪涌电流的影响。这种频繁的投切操作会使电容器内部的电流迅速变化，产生浪涌电流，进而导致电容器发热。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 262,
+   "id": 262
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "展开式原理图以二次回路的每个独立电源来划分单元进行编制。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 263,
+   "id": 263
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "展开图中体现交流电压回路。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 264,
+   "id": 264
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "遮栏主要用来防护工作人员意外碰触或过分接近带电部分而造成人身事故的一种（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "基本安全用具"
+    },
+    {
+     "key": "B",
+     "text": "绝缘安全用具"
+    },
+    {
+     "key": "C",
+     "text": "一般防护安全用具"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "遮栏主要用来防护工作人员意外碰触或过分接近带电部分而造成人身事故的一种一般防护安全用具。主要作用是防止人或动物从任何方向接近带电体，通过采用外壳或遮拦将危险的带电部分与外部完全而避免从任何方向或经常接近的方向直接触及危险的带电部分，提供了一种完全的防护。）",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 265,
+   "id": 265
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "正常情况下，当系统电压偏低时，也可投入高压电容器组。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 266,
+   "id": 266
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "正常情况下没有断开的备用电源或备用设备，而是工作在分段母线状态，靠分段断路器取得相互备用是指（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "暗备用"
+    },
+    {
+     "key": "B",
+     "text": "明备用"
+    },
+    {
+     "key": "C",
+     "text": "冷备用"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "系统正常运行时，备用电源不工作，称为明备用；系统正常运行时，备用电源同时投入运行的，称为暗备用实际上是两个工作电源的互为备用。暗备情况下没有断开的备用电源或备用设备，而是工作在段丹线状太告分段断致驱的得坦万冬用",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 267,
+   "id": 267
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "正常情况下有明显断开的备用电源或备用设备或备用线路是指（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "暗备用"
+    },
+    {
+     "key": "B",
+     "text": "冷备用"
+    },
+    {
+     "key": "C",
+     "text": "明备用"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "明备用是指正常运行时，专设一台平时不工作的变压器。当任一台厂用变压器故障或检修时，它可代替它们的工作。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 268,
+   "id": 268
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "执行工作票时，如工作未按时完成，应由（）向值班负责人申请办理延期手续。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作票签发人"
+    },
+    {
+     "key": "B",
+     "text": "工作负责人"
+    },
+    {
+     "key": "C",
+     "text": "工作许可人"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "在执行工作票的过程中，如果工作未能按计划完成，根据相关规定和操作流程，需要由工作负责人向运行值班负责人提出申请办理延期手续。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 269,
+   "id": 269
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "执行工作票制度有如下方式：填用操作票及执行口头或电话命令。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 270,
+   "id": 270
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "直流电压表的“+”端接电路的高电位点，“一”端接电路的低电位点。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "题干描述正确。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 271,
+   "id": 271
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "指针式万用表测量电阻时标度尺最右侧是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "∞"
+    },
+    {
+     "key": "B",
+     "text": "0"
+    },
+    {
+     "key": "C",
+     "text": "不确定"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 272,
+   "id": 272
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "中性点不接地的电力系统中，发生单相接地故障时，接地相对地电压（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "最高为相电压"
+    },
+    {
+     "key": "B",
+     "text": "最低为零"
+    },
+    {
+     "key": "C",
+     "text": "最高为线电压"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "中性点不接地的电力系统中，发生单相接地故障时，接地相对地电压最低为零。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 273,
+   "id": 273
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "中性点不接地的电力系统中，用电设备的绝缘水平应按（）考虑。",
+   "options": [
+    {
+     "key": "A",
+     "text": "线电压"
+    },
+    {
+     "key": "B",
+     "text": "2倍相电压"
+    },
+    {
+     "key": "C",
+     "text": "相电压"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "用电设备的绝缘水平需要按线电压考虑。中性点不接地系统是指电力系统中性点不接地。中性点统发生单相接地故障时，中性点电压发生位移，相之间的线电压仍然保持对称，且数值不变；由于没有",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 274,
+   "id": 274
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "中性点接地为高电阻接地方式时，可以迅速切除单相接地故障。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 275,
+   "id": 275
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "TN-S表示（）供电系统。",
+   "options": [
+    {
+     "key": "A",
+     "text": "三相五线"
+    },
+    {
+     "key": "B",
+     "text": "三相三线"
+    },
+    {
+     "key": "C",
+     "text": "三相四线"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 276,
+   "id": 276
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "保护接零适用于中性点直接接地的配电系统中（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "保护接零适用于中性点直接接地的配电系统中。保护接零（protectiveconnecttoneutral）把电工设备的金属外壳和电网的零线可靠连接，以保护人身安全的一种用电安全措施。把电工设备的金属外壳和电网的零线连接，以保护人身安全的一种用电安全措施。在电压低于1000伏的接零电网中，若电工设备因绝缘损坏或意外情况而使金属外壳带电时，形成相线对中性断器）迅速动作，切断电源，从而使设备的金属部分不至于长时间存在危险的电压，这就保证了人身安",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 277,
+   "id": 277
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "变压器的连接组是指三相变压器一、二次绕组之间连接关系的一种代号，它表示变压器一、二次绕组对应（）之间的相位关系。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电压"
+    },
+    {
+     "key": "B",
+     "text": "电流"
+    },
+    {
+     "key": "C",
+     "text": "有功"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 278,
+   "id": 278
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "触头间介质击穿电压是指（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "触头间产生电弧的最小电压"
+    },
+    {
+     "key": "B",
+     "text": "电源电压"
+    },
+    {
+     "key": "C",
+     "text": "电气试验时加在触头间的电压"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 279,
+   "id": 279
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "带电物体相互作用是因为带电物体周围存在着（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电压"
+    },
+    {
+     "key": "B",
+     "text": "磁场"
+    },
+    {
+     "key": "C",
+     "text": "电场"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "带电体周围就存在着一种特殊形态的物质，这种物质叫电场．电荷不接触也能发生作用，是电场发生的.磁场是指传递实物间磁力作用的场。磁场是内的微小粒子构成的，在现有条件下看不见、磁场具有粒子的辐射特性。电压也被称作电势差或电位差旱衡量单位由荷在静由场中中干由热不同所产",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 280,
+   "id": 280
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "当变压器二次侧开路，一次侧施加电压使其电流达到额定值，此时变压器从电源吸取的功率即为短路损耗（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 281,
+   "id": 281
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "导线的电阻为4Ω，今把它均匀地拉长到原来的2倍，电阻变为ひ（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "24"
+    },
+    {
+     "key": "B",
+     "text": "16"
+    },
+    {
+     "key": "C",
+     "text": "8"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 282,
+   "id": 282
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "电流表的量程应等于被测电路中实际电流的数值（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "电流表的量程应大于被测电路中实际电流的数值。因为电流表在工作时串联在电路中，如果量程小于实际电路的电流则会烧坏电流表，因此在实际测量时应首先将电流表的量程调整为最大，避免烧坏电流表。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 283,
+   "id": 283
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电路中负荷为（）时，触头间恢复电压等于电源电压，有利于电弧熄灭。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电感性负载"
+    },
+    {
+     "key": "B",
+     "text": "电容性负载"
+    },
+    {
+     "key": "C",
+     "text": "电阻性负载"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "电路中负荷为电阻性负载时，由于内部无储能元件，触头间恢复电压是等于电源电压。负载，在物理学中指连接在电路中的电源两端的电子元件，用于把由能转换成其他形式的能的装置。常用的负载有擎和灯泡等可消耗功率的元件。对负载最基本的要求是阻抗匹配和所能承受的功率。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 284,
+   "id": 284
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "电网谐波的产生，主要在于电力系统中存在各种（）元件。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电感"
+    },
+    {
+     "key": "B",
+     "text": "电容"
+    },
+    {
+     "key": "C",
+     "text": "非线性"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 285,
+   "id": 285
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "断路器的额定开断电流表明了断路器的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "长期允许最大工作电流"
+    },
+    {
+     "key": "B",
+     "text": "灭弧能力"
+    },
+    {
+     "key": "C",
+     "text": "绝缘水平"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "断路器的额定开断电流是指在额定电压下，断路器能可靠开断的最大短路电流有效值，该参数表征了断路器的断路能力和灭弧能力。根据国际电工委员会的规定，现只把开断电流能力作为表征断路器开端能力的唯一参数。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 286,
+   "id": 286
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "断路器在故障分闸时拒动，造成越级分闸，在恢复系统送电前，应将发生拒动的断路器（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "手动合闸"
+    },
+    {
+     "key": "B",
+     "text": "脱离系统并保持原状"
+    },
+    {
+     "key": "C",
+     "text": "手动分闸"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 287,
+   "id": 287
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "对于交叠式绕组变压器，为了（），通常将低压绕组靠近铁轭。",
+   "options": [
+    {
+     "key": "A",
+     "text": "增加冷却效果"
+    },
+    {
+     "key": "B",
+     "text": "减少绝缘距离"
+    },
+    {
+     "key": "C",
+     "text": "提高低压绕组电磁耦合效果"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 288,
+   "id": 288
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "阀型避雷器都由火花间隙和阀电阻片组成，装在密封的瓷套管内。火花间隙用铜片冲制而成，每对间隙用（）厚的云母垫圈隔开。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5-1.0mm"
+    },
+    {
+     "key": "B",
+     "text": "0.5-1.5mm"
+    },
+    {
+     "key": "C",
+     "text": "1.5-2.0mm"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 289,
+   "id": 289
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "工作过程中，（）和工作许可人任何一方不得擅自变更安全措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工作票签发人"
+    },
+    {
+     "key": "B",
+     "text": "工作负责人"
+    },
+    {
+     "key": "C",
+     "text": "运行值班人员"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 290,
+   "id": 290
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "关于磁场强度和磁感应强度，错误的说法是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "磁感应强度和磁场强度都是表征磁场强弱和方向的物理量，是一个矢量"
+    },
+    {
+     "key": "B",
+     "text": "磁场强度与磁介质性质有关"
+    },
+    {
+     "key": "C",
+     "text": "磁感应强度的单位是特斯拉"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 291,
+   "id": 291
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "关于回路编号的说法，不正确的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "在电气回路中，连于一点上的所有导线均标以相同的回路编号"
+    },
+    {
+     "key": "B",
+     "text": "经动断触点相连的两段线路给于相同的回路编号"
+    },
+    {
+     "key": "C",
+     "text": "需要标明回路的相别时，可在数字编号的前面增注文字或字母符号"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 292,
+   "id": 292
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "接闪杆可以用镀锌钢管焊成，其长度在1m以上时，钢管直径不得小于20mm（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 293,
+   "id": 293
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "雷电后造成架空线路产生高电压冲击波，这种雷电称为直击雷（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "雷电后造成架空线路产生高电压冲击波这种雷电称为雷电冲击波。雷电冲击波的传播速度在架空线路中约为300m/μs，在电缆中约为150m/μs。各雷电冲击波的波形相差很大。做耐压试验时，试验标准百波的波—4800kV。直击雷是带电云层（雷云）与建筑物、其它物体、大地或防雷装置之间发生的迅猛放电现象",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 294,
+   "id": 294
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "两个电阻串联接入电路，当两个电阻阻值不相等时，则（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "两电阻的电流相等"
+    },
+    {
+     "key": "B",
+     "text": "电阻小的电流小"
+    },
+    {
+     "key": "C",
+     "text": "电阻大的电流大"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "由于在串联电路中，电流处处相等，所以通过两个电阻的电流相等。1.串联连接的两个等值电阻，他们的电流和电压均相等2.两个阻值不同的电阻串联后接入电路中，则通过阻值较小的电阻的电流较大",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 295,
+   "id": 295
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "铝及钢芯铝绞线在正常情况下运行的最高温度不得超过70℃（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "钢芯铝绞线是一种常用的电力传输线路材料，有铝绞线和钢芯组成。它具有重量轻、强度高、导电性能好等优点，被广泛应用与输电线路中，然而，钢芯铝绞线也有其最高允许温度的限制。钢芯铝绞线的最高允许温度是指在正常使用条件下，该材料所能承受的最高温度。这个温度是由材料的热稳定性和导电性能决定的，一般来说，钢芯铝绞线的最高允许温度在时，会对其导电性能和机械性能产生不良影响。首先，高温会使铝绞线的电阻率增加，导致电流通过时",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 296,
+   "id": 296
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "配电网是以高压甚至超高电压将发电厂变电所或变电所之间连接起来的送电网络，所以又称为电力网中的主网架（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 297,
+   "id": 297
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "三相交流对称电路中，如采用星形接线时，线电压等于相电压。□（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 298,
+   "id": 298
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "万用表实质是一个带有整流器的（）仪表。",
+   "options": [
+    {
+     "key": "A",
+     "text": "磁电式"
+    },
+    {
+     "key": "B",
+     "text": "电磁式"
+    },
+    {
+     "key": "C",
+     "text": "电动式"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "万用表实质是一个带有整流器的磁电式仪表。关于万用表：万用表又称为复用表、多用表、三用表、繁用表等，是电力电子等部门不可缺少的测量仪表以测量电压、电流和电阻为主要目的。万用头、测量电路及转换开关等三回个主要部分组成。万田表旱由子测试领域是其木的工目也旱一种签使田",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 299,
+   "id": 299
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "为保证继电保护动作的选择性，一般上下级保护的时限差取（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.1-0.3s"
+    },
+    {
+     "key": "B",
+     "text": "0.3-0.7s"
+    },
+    {
+     "key": "C",
+     "text": "1s"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "B，0.3-0.7s。为保证继电保护动作的选择性，上下级保护的时限差通常取0.3-0.7秒。这样的时间差可以确保在下一级线路或元件故障时，上一级线路或元件的继电保护整定值与故障线路或元件的继定值相互配合，从而实现选择性地切除故障。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 300,
+   "id": 300
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "为了防止跨步电压对人造成伤害，要求防雷接地装置距离建筑物出入口、人行道最小距离不应小于（）m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2.5"
+    },
+    {
+     "key": "B",
+     "text": "3"
+    },
+    {
+     "key": "C",
+     "text": "4"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 301,
+   "id": 301
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "新敷设的带有中间接头的电缆线路，在投入运行（）个月后，应进行预防性试验。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1"
+    },
+    {
+     "key": "B",
+     "text": "3"
+    },
+    {
+     "key": "C",
+     "text": "5"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "新敷设的带有中间接头的电缆线路，在投入运行3个月后，应进行预防性试验。答案是B。预防为了检测电缆线路的绝缘状态，确保其安全可行。在新线路投入运行一段时间后，可能会出现绝缘",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 302,
+   "id": 302
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "一般发生短路故障后约0.01s时间出现最大短路冲击电流，采用微机保护一般仅需（）s就能发出跳闸指令。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.005"
+    },
+    {
+     "key": "B",
+     "text": "0.003"
+    },
+    {
+     "key": "C",
+     "text": "0.002"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 303,
+   "id": 303
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "以电气回路为基础，将继电器和各元件的线圈、触点按保护动作顺序，自左而右、自上而下绘制的接线图，称为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "原理图"
+    },
+    {
+     "key": "B",
+     "text": "展开图"
+    },
+    {
+     "key": "C",
+     "text": "安装图"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "进行绘制，现场也有将同一电器上各个零部件均集中在一起，按照其实际位置画出的电路结构图；其用图",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 304,
+   "id": 304
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "由于（），带电的云层在大地表面会感应出与云块异号的电荷。",
+   "options": [
+    {
+     "key": "A",
+     "text": "静电感应"
+    },
+    {
+     "key": "B",
+     "text": "电磁感应"
+    },
+    {
+     "key": "C",
+     "text": "空间效应"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 305,
+   "id": 305
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在R、L、C串联的交流电路中，当XL〉XC时，电路呈（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "容抗性质"
+    },
+    {
+     "key": "B",
+     "text": "阻抗性质"
+    },
+    {
+     "key": "C",
+     "text": "感抗性质"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 306,
+   "id": 306
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在纯电容电路中，容抗XC与线圈的电容C和交流电频率f成正比（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 307,
+   "id": 307
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在电阻并联的电路中，电路的总功率等于各分支电路的功率之和（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "陈述正确。在电阻并联的电路中，电路的总功率等于各分支电路的功率之和。这是因为在并联电路中，各分支电路的电压相等，电流根据欧姆定律（I=U/R）分配到各个分支。因此，各分支的功率（P=UI）等于电压乘以电流，而总功率则是各分支功率之和。这是并联电路的基本特性，适用于直流和交流电路。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 308,
+   "id": 308
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在工作地点设置\"止步，高压危险!\"的标示牌（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确x"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 309,
+   "id": 309
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在降压变电所内，为了限制中压和低压配电装置中的短路电流，可采用变压器低压侧（）方式。",
+   "options": [
+    {
+     "key": "A",
+     "text": "并列运行"
+    },
+    {
+     "key": "B",
+     "text": "分列或并列运行"
+    },
+    {
+     "key": "C",
+     "text": "分列运行"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 310,
+   "id": 310
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在三相系统中发生的短路中，除（）时，三相回路依旧对称，其余三类均属不对称短路。",
+   "options": [
+    {
+     "key": "A",
+     "text": "三相短路"
+    },
+    {
+     "key": "B",
+     "text": "单相接地短路"
+    },
+    {
+     "key": "C",
+     "text": "两相短路"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 311,
+   "id": 311
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在中性点不接地的电力系统中，当发生单相接地故障时，流入大地的电流若过大，就会在接地故障点出现断续电弧而引起（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "过电压"
+    },
+    {
+     "key": "B",
+     "text": "过电流"
+    },
+    {
+     "key": "C",
+     "text": "过负荷"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "在中性点不接地的电力系统中，当发生单相接地故障时，流入大地的电流若过大，就会在接地故断续电弧而引起A、过电压。过电压是由于导致的电流不平衡，使得中性点电压上升，从而在系统中产生中压升享这种情况可能导致设各损坏",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 312,
+   "id": 312
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "在中性点不接地的电力系统中，当发生单相完全接地时，非故障相对地电位升高为线电压（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 313,
+   "id": 313
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在中性点直接接地的电力系统中，发生单相接地故障时，各相对地绝缘水平取决于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "相电压"
+    },
+    {
+     "key": "B",
+     "text": "额定电压"
+    },
+    {
+     "key": "C",
+     "text": "线电压"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": null,
+   "correct": false,
+   "analysis": "暂无解析",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 314,
+   "id": 314
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "已知电源电动势为24V，电源内阻为2Ω，外接负载电阻为6Ω，则电路电流为（）A。",
+   "options": [
+    {
+     "key": "A",
+     "text": "12"
+    },
+    {
+     "key": "B",
+     "text": "3"
+    },
+    {
+     "key": "C",
+     "text": "4"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "正确答案：3A。根据闭合电路欧姆定律，电路电流（1）=电动势（E）/（电源内阻r+外接电阻R）。将已知数值代入公式：|=24V/（2Ω+6Ω）=24VL80=3A。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 315,
+   "id": 315
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "变压器的额定电压是指（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "变压器高压侧线电压（有效值）V"
+    },
+    {
+     "key": "B",
+     "text": "变压器低压侧线电压（有效值）"
+    },
+    {
+     "key": "C",
+     "text": "变压器高压侧相电压（有效值）"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "变压器的额定电压通常指线电压的有效值，因为电力系统中三相设备普遍采用线电压标称。选项C的相电压不符合常规标称方式。在高压侧与低压侧中，额定电压一般指高压侧的设计值，例如铭牌标注的高压侧电压等级。因此正确答案为高压侧线电压的有效值。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 316,
+   "id": 316
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "触头间恢复电压的大小与触头间（）等因素有关。",
+   "options": [
+    {
+     "key": "A",
+     "text": "电源电压"
+    },
+    {
+     "key": "B",
+     "text": "温度"
+    },
+    {
+     "key": "C",
+     "text": "距离"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "正确答案：电源电压。电源电压直接决定了触头断开后可能重新建立的电压幅值，而触头间距决定了介质（如空气）的绝缘强度，间距越大，耐受恢复电压的能力越强。",
+   "analysisTruncated": false,
+   "source": "jujiangyun",
+   "no": 317,
+   "id": 317
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "单支避雷针的高度为h，其地面保护半径是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2.0h"
+    },
+    {
+     "key": "B",
+     "text": "1.8h"
+    },
+    {
+     "key": "C",
+     "text": "1.5h"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "正确答案：1.5h。根据避雷针保护范围的“滚球法”原理，当避雷针高度为h时，其在地面上的保护范围呈圆形，保护半径约为1.5倍避雷针高度（1.5h）经验公式基于雷电先导放电的几何模型，确围内物体处于避雷针的可靠屏蔽下（保护角约45°）。而选项（2.0和选项（18h）奈大促护范围可能",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 318,
+   "id": 318
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "弹簧储能操作机构在断路器处于运行状态时，储能电动机的电源隔离开关应在（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "断开或闭合位置"
+    },
+    {
+     "key": "B",
+     "text": "闭合位置V"
+    },
+    {
+     "key": "C",
+     "text": "断开位置"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "B",
+   "correct": true,
+   "analysis": "正确答案：闭合位置。弹簧储能操作机构在断路器运行时，储能电动机的电源隔离开关应保持闭合位置，以确保断路器分闸后能自动重新储能（如弹簧未储能检修或长期停运时隔离电源，运行时断开会导致无法自动储能，影响快速重合闸功能。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 319,
+   "id": 319
+  },
+  {
+   "typeLabel": "判断",
+   "type": "judge",
+   "question": "低电阻接地方式的主要特点是能较好限制单相接地故障电流。（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确"
+    },
+    {
+     "key": "B",
+     "text": "错误"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "A",
+   "correct": false,
+   "analysis": "题目说法错误。题目中”低电阻接地方式的主要特点是能较好限制单相接地故障电流”这一说法不完全准确。实际上，低电阻接地的主要特点是允许足够大的故障电流通过（通常控制在几百安培），既保证继电它并非单纯限制电流，而是将故障电流控制在合理范围内。这种接地方式既不同于不接地系统（故障电流",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 320,
+   "id": 320
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "低电阻接地方式的主要特点是在电网发生单相接地时，能获得较大的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "感性电流"
+    },
+    {
+     "key": "B",
+     "text": "阻性电流"
+    },
+    {
+     "key": "C",
+     "text": "容性电流"
+    }
+   ],
+   "answer": "B",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "低电阻接地方式在中性点接入电阻，当发生单相接地故障时，故障电流由原来的容性电流（来自电容）和通过电阻的电流共同组成。由于电有功的元件，其电流表现为阻性分量，因此低电阻接",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 321,
+   "id": 321
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "交流电可以通过线圈，但是线圈的电感对交流电有阻碍作用，这个阻碍叫做（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "容抗"
+    },
+    {
+     "key": "B",
+     "text": "阻抗"
+    },
+    {
+     "key": "C",
+     "text": "感抗"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "B",
+   "correct": false,
+   "analysis": "正确答案：感抗。感抗（XL=2πfL）与电感量L和频率f成正比，其本质是自感电动势阻碍电流变果。不同于电阻消耗能量，感抗仅使电流相位压90°，是交流电路特有的电抗分量。容抗是电容的",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 322,
+   "id": 322
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "事故情况下，在全站无电后，应将（）支路断路器分闸断开。",
+   "options": [
+    {
+     "key": "A",
+     "text": "各出线"
+    },
+    {
+     "key": "B",
+     "text": "电压互感器"
+    },
+    {
+     "key": "C",
+     "text": "电容器"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "正确答案：电容器。这是因为电容器在断电后仍会储存电荷，若不断开可能在线路恢复送电时产生反向冲击电流或电压，危及设备和人身安全。而各出线和由压互感器通常无需紧急断开，前者可保持分系统恢复，后者作为监测设备不影响系统安全。因此，规程明确要求全站失电后必须第一时间切除电容",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 323,
+   "id": 323
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "已知电源内阻为1Ω，外接负载电阻为8Ω，电路电流为5A，则电源电动势为（）V。",
+   "options": [
+    {
+     "key": "A",
+     "text": "45"
+    },
+    {
+     "key": "B",
+     "text": "5"
+    },
+    {
+     "key": "C",
+     "text": "40"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "正确答案：电源电动势为45V。根据全电路欧姆定律E=I（R+r），代入电流5A、内阻1Ω、外阻8得E=5×（8+1）=45V。这个结果说明，电源供45V的电动势才能克服9Ω的总电阻（内阻与外阻",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 324,
+   "id": 324
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在感性负载交流电路中，采用（）的方法可提高电路功率因数。",
+   "options": [
+    {
+     "key": "A",
+     "text": "串联电阻"
+    },
+    {
+     "key": "B",
+     "text": "串联电容"
+    },
+    {
+     "key": "C",
+     "text": "并联电容"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "正确答案：采用并联电容的方法。并联电容产生的超前无功电流可补偿电感滞后的无功电流，使总电流与电压相位差减小，从而提高功率因数。串联电容会改变负载端电压，串联电阻则增加能耗，唯有既能补偿无功又不影响负载正常工作，是改善功率因数的标准方法。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 325,
+   "id": 325
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在接通分断电路时，隔离开关与断路器配合，操作隔离开关必须执行（）的原则。",
+   "options": [
+    {
+     "key": "A",
+     "text": "先合后断"
+    },
+    {
+     "key": "B",
+     "text": "后合先断"
+    },
+    {
+     "key": "C",
+     "text": "先断后合"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "A",
+   "correct": true,
+   "analysis": "在接通和分断电路时，隔离开关与断路器配合操作需确保安全。隔离开关无灭弧能力，操作时不可带负荷，因此必须遵循“先合后断”原则。接通电路时先断电路时，先断开断路器（切断电流），再断开隔离开关。这一顺序避免隔离开关在带电状态下操作，防",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 326,
+   "id": 326
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "在直流电路中，电容元件的容抗值（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "无穷大"
+    },
+    {
+     "key": "B",
+     "text": "小于零"
+    },
+    {
+     "key": "C",
+     "text": "等于零"
+    }
+   ],
+   "answer": "A",
+   "userAnswer": "C",
+   "correct": false,
+   "analysis": "正确答案：在直流电路中，电容元件的容抗值无穷大。容抗公式XC=1/（2πfC）表明，直流电（f=0）时容抗趋近无穷大，相当于开路状态。这是直通交\"特性的数学表达，实际应用中电容正此特性实现直流阻断。小于零无物理意义，零容抗则对应交流高频极限均不符合直流由路场景",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 327,
+   "id": 327
+  },
+  {
+   "typeLabel": "单选",
+   "type": "single",
+   "question": "周期为0.01s的交流电，其角频率是（）rad/s。",
+   "options": [
+    {
+     "key": "A",
+     "text": "157"
+    },
+    {
+     "key": "B",
+     "text": "314"
+    },
+    {
+     "key": "C",
+     "text": "628"
+    }
+   ],
+   "answer": "C",
+   "userAnswer": "C",
+   "correct": true,
+   "analysis": "正确答案：角频率是628rad/s。角频率ω=2π/T，周期T=0.01s，计算得ω=2×3.14/0.01=628rad/s。若误用π≈3.14/0.01会得到314rad/s，漏乘2π则得157rad/s。这个参数反映交流电变化速率，50Hz工频对应的314rad/s是特例，而本题0.01s（1的角频率恰为其2倍，是分析交流相位关系的核心变量。",
+   "analysisTruncated": true,
+   "source": "jujiangyun",
+   "no": 328,
+   "id": 328
+  }
+ ]
+}
